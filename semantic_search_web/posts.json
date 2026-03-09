@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "username": "tech_world",
+    "platform": "Instagram",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 1853
+  },
+  {
+    "id": 2,
+    "username": "science_today",
+    "platform": "Facebook",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1002
+  },
+  {
+    "id": 3,
+    "username": "crypto_trader",
+    "platform": "LinkedIn",
+    "text": "Marketing plays a huge role in success",
+    "likes": 1684
+  },
+  {
+    "id": 4,
+    "username": "startup_founder",
+    "platform": "Reddit",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 1627
+  },
+  {
+    "id": 5,
+    "username": "finance_tips",
+    "platform": "Twitter",
+    "text": "Climate change research is important",
+    "likes": 1993
+  },
+  {
+    "id": 6,
+    "username": "politics_watch",
+    "platform": "YouTube",
+    "text": "Finished a great mystery novel",
+    "likes": 492
+  },
+  {
+    "id": 7,
+    "username": "coding_student",
+    "platform": "Twitter",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 526
+  },
+  {
+    "id": 8,
+    "username": "student_life",
+    "platform": "Twitter",
+    "text": "The football match yesterday was incredible",
+    "likes": 235
+  },
+  {
+    "id": 9,
+    "username": "startup_founder",
+    "platform": "LinkedIn",
+    "text": "Street food markets are always exciting",
+    "likes": 131
+  },
+  {
+    "id": 10,
+    "username": "student_life",
+    "platform": "Instagram",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 800
+  },
+  {
+    "id": 11,
+    "username": "career_path",
+    "platform": "Instagram",
+    "text": "Reading daily helps personal growth",
+    "likes": 1501
+  },
+  {
+    "id": 12,
+    "username": "sports_daily",
+    "platform": "Reddit",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 1171
+  },
+  {
+    "id": 13,
+    "username": "student_life",
+    "platform": "YouTube",
+    "text": "Planning a road trip across the country",
+    "likes": 659
+  },
+  {
+    "id": 14,
+    "username": "politics_watch",
+    "platform": "Reddit",
+    "text": "Regular health checkups are important",
+    "likes": 517
+  },
+  {
+    "id": 15,
+    "username": "crypto_trader",
+    "platform": "Facebook",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 359
+  },
+  {
+    "id": 16,
+    "username": "mental_support",
+    "platform": "Twitter",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 783
+  },
+  {
+    "id": 17,
+    "username": "nature_lover",
+    "platform": "LinkedIn",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 1805
+  },
+  {
+    "id": 18,
+    "username": "daily_thoughts",
+    "platform": "LinkedIn",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 73
+  },
+  {
+    "id": 19,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 1883
+  },
+  {
+    "id": 20,
+    "username": "life_quotes",
+    "platform": "Twitter",
+    "text": "Recycling reduces environmental waste",
+    "likes": 1000
+  },
+  {
+    "id": 21,
+    "username": "sports_fan",
+    "platform": "YouTube",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 1350
+  },
+  {
+    "id": 22,
+    "username": "coding_student",
+    "platform": "Twitter",
+    "text": "Morning running improves stamina",
+    "likes": 966
+  },
+  {
+    "id": 23,
+    "username": "life_quotes",
+    "platform": "Instagram",
+    "text": "Exploring different cuisines is fun",
+    "likes": 1563
+  },
+  {
+    "id": 24,
+    "username": "health_awareness",
+    "platform": "Instagram",
+    "text": "Building a company requires persistence",
+    "likes": 1911
+  },
+  {
+    "id": 25,
+    "username": "sports_fan",
+    "platform": "YouTube",
+    "text": "Building a company requires persistence",
+    "likes": 24
+  },
+  {
+    "id": 26,
+    "username": "travel_diaries",
+    "platform": "Twitter",
+    "text": "Regular health checkups are important",
+    "likes": 1517
+  },
+  {
+    "id": 27,
+    "username": "finance_tips",
+    "platform": "Facebook",
+    "text": "Voting is important in a democracy",
+    "likes": 1157
+  },
+  {
+    "id": 28,
+    "username": "science_today",
+    "platform": "Facebook",
+    "text": "Investing in stocks requires patience",
+    "likes": 1509
+  },
+  {
+    "id": 29,
+    "username": "book_reader",
+    "platform": "LinkedIn",
+    "text": "Mental health awareness is very important",
+    "likes": 178
+  },
+  {
+    "id": 30,
+    "username": "politics_watch",
+    "platform": "Twitter",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 1664
+  },
+  {
+    "id": 31,
+    "username": "mental_support",
+    "platform": "YouTube",
+    "text": "Climate change research is important",
+    "likes": 1477
+  },
+  {
+    "id": 32,
+    "username": "travel_diaries",
+    "platform": "Reddit",
+    "text": "Balancing work and life is important",
+    "likes": 1988
+  },
+  {
+    "id": 33,
+    "username": "student_life",
+    "platform": "Twitter",
+    "text": "The football match yesterday was incredible",
+    "likes": 659
+  },
+  {
+    "id": 34,
+    "username": "movie_buff",
+    "platform": "Reddit",
+    "text": "Morning routines boost productivity",
+    "likes": 1768
+  },
+  {
+    "id": 35,
+    "username": "startup_founder",
+    "platform": "Facebook",
+    "text": "Final year project development in progress",
+    "likes": 1798
+  },
+  {
+    "id": 36,
+    "username": "tech_updates",
+    "platform": "Instagram",
+    "text": "Movie soundtracks can make scenes unforgettable",
+    "likes": 519
+  },
+  {
+    "id": 37,
+    "username": "science_today",
+    "platform": "Instagram",
+    "text": "Healthy habits build a better life",
+    "likes": 1319
+  },
+  {
+    "id": 38,
+    "username": "mental_support",
+    "platform": "LinkedIn",
+    "text": "Stock market trends are unpredictable",
+    "likes": 1633
+  },
+  {
+    "id": 39,
+    "username": "college_diaries",
+    "platform": "Facebook",
+    "text": "Practicing gratitude improves happiness",
+    "likes": 941
+  },
+  {
+    "id": 40,
+    "username": "movie_buff",
+    "platform": "YouTube",
+    "text": "Reading books improves knowledge",
+    "likes": 1905
+  },
+  {
+    "id": 41,
+    "username": "sports_daily",
+    "platform": "LinkedIn",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 545
+  },
+  {
+    "id": 42,
+    "username": "book_reader",
+    "platform": "Twitter",
+    "text": "Balancing work and life is important",
+    "likes": 1397
+  },
+  {
+    "id": 43,
+    "username": "finance_tips",
+    "platform": "Twitter",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 1263
+  },
+  {
+    "id": 44,
+    "username": "finance_tips",
+    "platform": "Facebook",
+    "text": "Solo travel can be life changing",
+    "likes": 257
+  },
+  {
+    "id": 45,
+    "username": "nature_lover",
+    "platform": "Twitter",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 795
+  },
+  {
+    "id": 46,
+    "username": "crypto_trader",
+    "platform": "LinkedIn",
+    "text": "Recycling reduces environmental waste",
+    "likes": 979
+  },
+  {
+    "id": 47,
+    "username": "crypto_trader",
+    "platform": "Twitter",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 70
+  },
+  {
+    "id": 48,
+    "username": "fitness_motivation",
+    "platform": "Reddit",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 216
+  },
+  {
+    "id": 49,
+    "username": "sports_zone",
+    "platform": "Facebook",
+    "text": "Solo travel can be life changing",
+    "likes": 362
+  },
+  {
+    "id": 50,
+    "username": "sports_fan",
+    "platform": "Facebook",
+    "text": "Regular health checkups are important",
+    "likes": 1199
+  },
+  {
+    "id": 51,
+    "username": "college_diaries",
+    "platform": "LinkedIn",
+    "text": "Regular health checkups are important",
+    "likes": 985
+  },
+  {
+    "id": 52,
+    "username": "college_diaries",
+    "platform": "Twitter",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 1227
+  },
+  {
+    "id": 53,
+    "username": "sports_daily",
+    "platform": "Twitter",
+    "text": "Time management is important for students",
+    "likes": 1253
+  },
+  {
+    "id": 54,
+    "username": "health_awareness",
+    "platform": "Twitter",
+    "text": "Trying to stay positive during tough times",
+    "likes": 740
+  },
+  {
+    "id": 55,
+    "username": "health_awareness",
+    "platform": "Facebook",
+    "text": "Climate change awareness is increasing",
+    "likes": 955
+  },
+  {
+    "id": 56,
+    "username": "health_guru",
+    "platform": "Twitter",
+    "text": "Nature conservation should be prioritized",
+    "likes": 1597
+  },
+  {
+    "id": 57,
+    "username": "book_reader",
+    "platform": "LinkedIn",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 398
+  },
+  {
+    "id": 58,
+    "username": "life_quotes",
+    "platform": "Twitter",
+    "text": "Solo travel can be life changing",
+    "likes": 1446
+  },
+  {
+    "id": 59,
+    "username": "student_help",
+    "platform": "Instagram",
+    "text": "Saving money is important for financial stability",
+    "likes": 1921
+  },
+  {
+    "id": 60,
+    "username": "gamer_zone",
+    "platform": "Reddit",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 1847
+  },
+  {
+    "id": 61,
+    "username": "politics_watch",
+    "platform": "YouTube",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 1952
+  },
+  {
+    "id": 62,
+    "username": "gamer_zone",
+    "platform": "LinkedIn",
+    "text": "Nature conservation should be prioritized",
+    "likes": 1297
+  },
+  {
+    "id": 63,
+    "username": "nature_lover",
+    "platform": "YouTube",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 234
+  },
+  {
+    "id": 64,
+    "username": "mind_care",
+    "platform": "Instagram",
+    "text": "Time management is important for students",
+    "likes": 615
+  },
+  {
+    "id": 65,
+    "username": "tech_world",
+    "platform": "Instagram",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 629
+  },
+  {
+    "id": 66,
+    "username": "tech_world",
+    "platform": "Reddit",
+    "text": "Played a new multiplayer game today",
+    "likes": 213
+  },
+  {
+    "id": 67,
+    "username": "fitness_motivation",
+    "platform": "Twitter",
+    "text": "Stock market trends are unpredictable",
+    "likes": 714
+  },
+  {
+    "id": 68,
+    "username": "ai_learner",
+    "platform": "LinkedIn",
+    "text": "Stock market trends are unpredictable",
+    "likes": 661
+  },
+  {
+    "id": 69,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Morning routines boost productivity",
+    "likes": 1143
+  },
+  {
+    "id": 70,
+    "username": "mental_support",
+    "platform": "Twitter",
+    "text": "Climate change research is important",
+    "likes": 90
+  },
+  {
+    "id": 71,
+    "username": "mental_support",
+    "platform": "Twitter",
+    "text": "The football match yesterday was incredible",
+    "likes": 1208
+  },
+  {
+    "id": 72,
+    "username": "daily_thoughts",
+    "platform": "Instagram",
+    "text": "Balancing work and life is important",
+    "likes": 404
+  },
+  {
+    "id": 73,
+    "username": "fitness_motivation",
+    "platform": "Facebook",
+    "text": "Government policies affect the economy",
+    "likes": 1353
+  },
+  {
+    "id": 74,
+    "username": "life_quotes",
+    "platform": "Reddit",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 1249
+  },
+  {
+    "id": 75,
+    "username": "student_help",
+    "platform": "YouTube",
+    "text": "Literature opens new perspectives",
+    "likes": 1512
+  },
+  {
+    "id": 76,
+    "username": "daily_thoughts",
+    "platform": "YouTube",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 229
+  },
+  {
+    "id": 77,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Healthy habits build a better life",
+    "likes": 1114
+  },
+  {
+    "id": 78,
+    "username": "science_today",
+    "platform": "Reddit",
+    "text": "Practicing gratitude improves happiness",
+    "likes": 1849
+  },
+  {
+    "id": 79,
+    "username": "crypto_trader",
+    "platform": "LinkedIn",
+    "text": "The latest superhero film broke box office records",
+    "likes": 38
+  },
+  {
+    "id": 80,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 829
+  },
+  {
+    "id": 81,
+    "username": "tech_world",
+    "platform": "Reddit",
+    "text": "Cooking pasta at home today",
+    "likes": 1527
+  },
+  {
+    "id": 82,
+    "username": "movie_buff",
+    "platform": "Facebook",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 1343
+  },
+  {
+    "id": 83,
+    "username": "student_life",
+    "platform": "YouTube",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 845
+  },
+  {
+    "id": 84,
+    "username": "travel_diaries",
+    "platform": "Reddit",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1736
+  },
+  {
+    "id": 85,
+    "username": "career_path",
+    "platform": "Facebook",
+    "text": "The election debate was intense",
+    "likes": 1508
+  },
+  {
+    "id": 86,
+    "username": "life_quotes",
+    "platform": "Instagram",
+    "text": "Learning new programming concepts today",
+    "likes": 274
+  },
+  {
+    "id": 87,
+    "username": "health_guru",
+    "platform": "Reddit",
+    "text": "Planting trees helps protect the environment",
+    "likes": 1335
+  },
+  {
+    "id": 88,
+    "username": "student_help",
+    "platform": "Reddit",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 1889
+  },
+  {
+    "id": 89,
+    "username": "finance_tips",
+    "platform": "LinkedIn",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 57
+  },
+  {
+    "id": 90,
+    "username": "health_guru",
+    "platform": "YouTube",
+    "text": "Cricket world cup games are always exciting",
+    "likes": 1012
+  },
+  {
+    "id": 91,
+    "username": "fitness_daily",
+    "platform": "Reddit",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 1210
+  },
+  {
+    "id": 92,
+    "username": "college_diaries",
+    "platform": "Facebook",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 331
+  },
+  {
+    "id": 93,
+    "username": "movie_buff",
+    "platform": "Twitter",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 513
+  },
+  {
+    "id": 94,
+    "username": "nature_lover",
+    "platform": "LinkedIn",
+    "text": "Balancing work and life is important",
+    "likes": 726
+  },
+  {
+    "id": 95,
+    "username": "health_awareness",
+    "platform": "Twitter",
+    "text": "Reading books improves knowledge",
+    "likes": 54
+  },
+  {
+    "id": 96,
+    "username": "politics_watch",
+    "platform": "LinkedIn",
+    "text": "Learning machine learning and deep learning",
+    "likes": 70
+  },
+  {
+    "id": 97,
+    "username": "nature_lover",
+    "platform": "YouTube",
+    "text": "Watching classic films on the weekend",
+    "likes": 822
+  },
+  {
+    "id": 98,
+    "username": "crypto_trader",
+    "platform": "Reddit",
+    "text": "Solo travel can be life changing",
+    "likes": 200
+  },
+  {
+    "id": 99,
+    "username": "mind_care",
+    "platform": "Twitter",
+    "text": "Regular health checkups are important",
+    "likes": 1407
+  },
+  {
+    "id": 100,
+    "username": "coding_student",
+    "platform": "Twitter",
+    "text": "Played a new multiplayer game today",
+    "likes": 187
+  },
+  {
+    "id": 101,
+    "username": "student_help",
+    "platform": "Instagram",
+    "text": "Climate change awareness is increasing",
+    "likes": 149
+  },
+  {
+    "id": 102,
+    "username": "travel_diaries",
+    "platform": "LinkedIn",
+    "text": "Voting is important in a democracy",
+    "likes": 662
+  },
+  {
+    "id": 103,
+    "username": "gamer_zone",
+    "platform": "Facebook",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 1862
+  },
+  {
+    "id": 104,
+    "username": "ai_learner",
+    "platform": "LinkedIn",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 230
+  },
+  {
+    "id": 105,
+    "username": "food_blog",
+    "platform": "LinkedIn",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1428
+  },
+  {
+    "id": 106,
+    "username": "gamer_zone",
+    "platform": "Reddit",
+    "text": "Trying to stay positive during tough times",
+    "likes": 1834
+  },
+  {
+    "id": 107,
+    "username": "travel_diaries",
+    "platform": "Twitter",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 1505
+  },
+  {
+    "id": 108,
+    "username": "crypto_trader",
+    "platform": "Instagram",
+    "text": "Eating healthy food helps prevent diseases",
+    "likes": 1070
+  },
+  {
+    "id": 109,
+    "username": "fitness_motivation",
+    "platform": "Instagram",
+    "text": "Streaming gameplay online is popular now",
+    "likes": 1826
+  },
+  {
+    "id": 110,
+    "username": "career_path",
+    "platform": "Reddit",
+    "text": "Exploring different cuisines is fun",
+    "likes": 1938
+  },
+  {
+    "id": 111,
+    "username": "finance_tips",
+    "platform": "Facebook",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 1843
+  },
+  {
+    "id": 112,
+    "username": "mind_care",
+    "platform": "Twitter",
+    "text": "Streaming gameplay online is popular now",
+    "likes": 151
+  },
+  {
+    "id": 113,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Morning routines boost productivity",
+    "likes": 139
+  },
+  {
+    "id": 114,
+    "username": "movie_buff",
+    "platform": "Facebook",
+    "text": "Studying hard for upcoming exams",
+    "likes": 1263
+  },
+  {
+    "id": 115,
+    "username": "daily_thoughts",
+    "platform": "YouTube",
+    "text": "Climate change awareness is increasing",
+    "likes": 1195
+  },
+  {
+    "id": 116,
+    "username": "life_quotes",
+    "platform": "YouTube",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 1289
+  },
+  {
+    "id": 117,
+    "username": "college_diaries",
+    "platform": "Instagram",
+    "text": "Exploring different cuisines is fun",
+    "likes": 718
+  },
+  {
+    "id": 118,
+    "username": "sports_fan",
+    "platform": "Facebook",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 1552
+  },
+  {
+    "id": 119,
+    "username": "daily_thoughts",
+    "platform": "Instagram",
+    "text": "Trying to stay positive during tough times",
+    "likes": 403
+  },
+  {
+    "id": 120,
+    "username": "ai_learner",
+    "platform": "Reddit",
+    "text": "Exploring different cuisines is fun",
+    "likes": 1372
+  },
+  {
+    "id": 121,
+    "username": "tech_updates",
+    "platform": "Instagram",
+    "text": "Cooking pasta at home today",
+    "likes": 1536
+  },
+  {
+    "id": 122,
+    "username": "travel_diaries",
+    "platform": "Reddit",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 1637
+  },
+  {
+    "id": 123,
+    "username": "science_today",
+    "platform": "Facebook",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 1802
+  },
+  {
+    "id": 124,
+    "username": "crypto_trader",
+    "platform": "Twitter",
+    "text": "Regular health checkups are important",
+    "likes": 1542
+  },
+  {
+    "id": 125,
+    "username": "sports_daily",
+    "platform": "Facebook",
+    "text": "Cooking pasta at home today",
+    "likes": 294
+  },
+  {
+    "id": 126,
+    "username": "startup_founder",
+    "platform": "Facebook",
+    "text": "Cooking pasta at home today",
+    "likes": 229
+  },
+  {
+    "id": 127,
+    "username": "tech_updates",
+    "platform": "LinkedIn",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 1727
+  },
+  {
+    "id": 128,
+    "username": "food_blog",
+    "platform": "Reddit",
+    "text": "Movie soundtracks can make scenes unforgettable",
+    "likes": 575
+  },
+  {
+    "id": 129,
+    "username": "politics_watch",
+    "platform": "Reddit",
+    "text": "Exploring new cities and cultures",
+    "likes": 46
+  },
+  {
+    "id": 130,
+    "username": "food_blog",
+    "platform": "Twitter",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 702
+  },
+  {
+    "id": 131,
+    "username": "gamer_zone",
+    "platform": "Facebook",
+    "text": "Public policies shape society",
+    "likes": 397
+  },
+  {
+    "id": 132,
+    "username": "life_quotes",
+    "platform": "Reddit",
+    "text": "Government policies affect the economy",
+    "likes": 1537
+  },
+  {
+    "id": 133,
+    "username": "coding_student",
+    "platform": "Reddit",
+    "text": "Protecting wildlife is important",
+    "likes": 250
+  },
+  {
+    "id": 134,
+    "username": "startup_founder",
+    "platform": "LinkedIn",
+    "text": "Climate change awareness is increasing",
+    "likes": 1028
+  },
+  {
+    "id": 135,
+    "username": "food_blog",
+    "platform": "Instagram",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 459
+  },
+  {
+    "id": 136,
+    "username": "college_diaries",
+    "platform": "Reddit",
+    "text": "Time management is important for students",
+    "likes": 318
+  },
+  {
+    "id": 137,
+    "username": "food_blog",
+    "platform": "YouTube",
+    "text": "Literature opens new perspectives",
+    "likes": 1221
+  },
+  {
+    "id": 138,
+    "username": "college_diaries",
+    "platform": "Reddit",
+    "text": "Building web applications using Flask",
+    "likes": 1112
+  },
+  {
+    "id": 139,
+    "username": "fitness_motivation",
+    "platform": "Instagram",
+    "text": "Protecting wildlife is important",
+    "likes": 1179
+  },
+  {
+    "id": 140,
+    "username": "health_awareness",
+    "platform": "LinkedIn",
+    "text": "Mental health awareness is very important",
+    "likes": 601
+  },
+  {
+    "id": 141,
+    "username": "mental_support",
+    "platform": "Reddit",
+    "text": "Played a new multiplayer game today",
+    "likes": 1261
+  },
+  {
+    "id": 142,
+    "username": "travel_diaries",
+    "platform": "Twitter",
+    "text": "Watching classic films on the weekend",
+    "likes": 1730
+  },
+  {
+    "id": 143,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 764
+  },
+  {
+    "id": 144,
+    "username": "startup_founder",
+    "platform": "YouTube",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 189
+  },
+  {
+    "id": 145,
+    "username": "daily_thoughts",
+    "platform": "YouTube",
+    "text": "Played a new multiplayer game today",
+    "likes": 970
+  },
+  {
+    "id": 146,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Reading books improves knowledge",
+    "likes": 120
+  },
+  {
+    "id": 147,
+    "username": "sports_fan",
+    "platform": "Reddit",
+    "text": "The new sci-fi movie had amazing visuals",
+    "likes": 1636
+  },
+  {
+    "id": 148,
+    "username": "health_awareness",
+    "platform": "Instagram",
+    "text": "Balancing work and life is important",
+    "likes": 1175
+  },
+  {
+    "id": 149,
+    "username": "career_path",
+    "platform": "YouTube",
+    "text": "The new sci-fi movie had amazing visuals",
+    "likes": 1488
+  },
+  {
+    "id": 150,
+    "username": "travel_diaries",
+    "platform": "Facebook",
+    "text": "Building web applications using Flask",
+    "likes": 1648
+  },
+  {
+    "id": 151,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Voting is important in a democracy",
+    "likes": 772
+  },
+  {
+    "id": 152,
+    "username": "fitness_daily",
+    "platform": "Twitter",
+    "text": "Time management is important for students",
+    "likes": 1984
+  },
+  {
+    "id": 153,
+    "username": "life_quotes",
+    "platform": "YouTube",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1450
+  },
+  {
+    "id": 154,
+    "username": "sports_zone",
+    "platform": "LinkedIn",
+    "text": "Morning running improves stamina",
+    "likes": 77
+  },
+  {
+    "id": 155,
+    "username": "sports_zone",
+    "platform": "LinkedIn",
+    "text": "Marketing plays a huge role in success",
+    "likes": 960
+  },
+  {
+    "id": 156,
+    "username": "science_today",
+    "platform": "Reddit",
+    "text": "Solo travel can be life changing",
+    "likes": 1759
+  },
+  {
+    "id": 157,
+    "username": "book_reader",
+    "platform": "Instagram",
+    "text": "Cloud computing is the future of software",
+    "likes": 594
+  },
+  {
+    "id": 158,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Reading daily helps personal growth",
+    "likes": 1486
+  },
+  {
+    "id": 159,
+    "username": "health_guru",
+    "platform": "Facebook",
+    "text": "Cloud computing is the future of software",
+    "likes": 448
+  },
+  {
+    "id": 160,
+    "username": "sports_zone",
+    "platform": "Facebook",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1845
+  },
+  {
+    "id": 161,
+    "username": "fitness_motivation",
+    "platform": "Reddit",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 2000
+  },
+  {
+    "id": 162,
+    "username": "daily_thoughts",
+    "platform": "LinkedIn",
+    "text": "Marketing plays a huge role in success",
+    "likes": 178
+  },
+  {
+    "id": 163,
+    "username": "startup_founder",
+    "platform": "YouTube",
+    "text": "Exploring new cities and cultures",
+    "likes": 1209
+  },
+  {
+    "id": 164,
+    "username": "nature_lover",
+    "platform": "YouTube",
+    "text": "Public policies shape society",
+    "likes": 348
+  },
+  {
+    "id": 165,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Balancing work and life is important",
+    "likes": 1127
+  },
+  {
+    "id": 166,
+    "username": "food_blog",
+    "platform": "Reddit",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 177
+  },
+  {
+    "id": 167,
+    "username": "tech_world",
+    "platform": "Instagram",
+    "text": "Mental health awareness is very important",
+    "likes": 261
+  },
+  {
+    "id": 168,
+    "username": "life_quotes",
+    "platform": "Reddit",
+    "text": "Saving money is important for financial stability",
+    "likes": 45
+  },
+  {
+    "id": 169,
+    "username": "life_quotes",
+    "platform": "Instagram",
+    "text": "Saving money is important for financial stability",
+    "likes": 862
+  },
+  {
+    "id": 170,
+    "username": "startup_founder",
+    "platform": "Reddit",
+    "text": "Tried a new healthy salad recipe",
+    "likes": 280
+  },
+  {
+    "id": 171,
+    "username": "health_guru",
+    "platform": "Twitter",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 1139
+  },
+  {
+    "id": 172,
+    "username": "sports_fan",
+    "platform": "Facebook",
+    "text": "Exploring different cuisines is fun",
+    "likes": 1842
+  },
+  {
+    "id": 173,
+    "username": "nature_lover",
+    "platform": "Twitter",
+    "text": "Reading books improves knowledge",
+    "likes": 1275
+  },
+  {
+    "id": 174,
+    "username": "science_today",
+    "platform": "Twitter",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 1431
+  },
+  {
+    "id": 175,
+    "username": "student_help",
+    "platform": "Reddit",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 459
+  },
+  {
+    "id": 176,
+    "username": "fitness_daily",
+    "platform": "Twitter",
+    "text": "Reading books improves knowledge",
+    "likes": 1092
+  },
+  {
+    "id": 177,
+    "username": "ai_learner",
+    "platform": "Reddit",
+    "text": "Learning new programming concepts today",
+    "likes": 1250
+  },
+  {
+    "id": 178,
+    "username": "nature_lover",
+    "platform": "Reddit",
+    "text": "Studying hard for upcoming exams",
+    "likes": 1418
+  },
+  {
+    "id": 179,
+    "username": "food_blog",
+    "platform": "Twitter",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 755
+  },
+  {
+    "id": 180,
+    "username": "sports_fan",
+    "platform": "LinkedIn",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 854
+  },
+  {
+    "id": 181,
+    "username": "politics_watch",
+    "platform": "Instagram",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 1314
+  },
+  {
+    "id": 182,
+    "username": "college_diaries",
+    "platform": "YouTube",
+    "text": "Mental health awareness is very important",
+    "likes": 28
+  },
+  {
+    "id": 183,
+    "username": "science_today",
+    "platform": "Instagram",
+    "text": "Protecting wildlife is important",
+    "likes": 1959
+  },
+  {
+    "id": 184,
+    "username": "career_path",
+    "platform": "LinkedIn",
+    "text": "The election debate was intense",
+    "likes": 1585
+  },
+  {
+    "id": 185,
+    "username": "mind_care",
+    "platform": "LinkedIn",
+    "text": "Learning machine learning and deep learning",
+    "likes": 1992
+  },
+  {
+    "id": 186,
+    "username": "health_awareness",
+    "platform": "Instagram",
+    "text": "Physics explains many natural phenomena",
+    "likes": 1768
+  },
+  {
+    "id": 187,
+    "username": "sports_daily",
+    "platform": "Facebook",
+    "text": "Finished a great mystery novel",
+    "likes": 1004
+  },
+  {
+    "id": 188,
+    "username": "college_diaries",
+    "platform": "LinkedIn",
+    "text": "Streaming gameplay online is popular now",
+    "likes": 785
+  },
+  {
+    "id": 189,
+    "username": "tech_updates",
+    "platform": "Reddit",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 1748
+  },
+  {
+    "id": 190,
+    "username": "health_awareness",
+    "platform": "Facebook",
+    "text": "Planning a road trip across the country",
+    "likes": 1871
+  },
+  {
+    "id": 191,
+    "username": "life_quotes",
+    "platform": "Reddit",
+    "text": "Final year project development in progress",
+    "likes": 379
+  },
+  {
+    "id": 192,
+    "username": "movie_buff",
+    "platform": "YouTube",
+    "text": "Solo travel can be life changing",
+    "likes": 1172
+  },
+  {
+    "id": 193,
+    "username": "movie_buff",
+    "platform": "Twitter",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1767
+  },
+  {
+    "id": 194,
+    "username": "politics_watch",
+    "platform": "YouTube",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 1088
+  },
+  {
+    "id": 195,
+    "username": "finance_tips",
+    "platform": "Twitter",
+    "text": "Healthy habits build a better life",
+    "likes": 528
+  },
+  {
+    "id": 196,
+    "username": "sports_fan",
+    "platform": "Instagram",
+    "text": "Nature conservation should be prioritized",
+    "likes": 1604
+  },
+  {
+    "id": 197,
+    "username": "life_quotes",
+    "platform": "Instagram",
+    "text": "Mental health awareness is very important",
+    "likes": 952
+  },
+  {
+    "id": 198,
+    "username": "student_life",
+    "platform": "Twitter",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 135
+  },
+  {
+    "id": 199,
+    "username": "life_quotes",
+    "platform": "LinkedIn",
+    "text": "Studying hard for upcoming exams",
+    "likes": 1790
+  },
+  {
+    "id": 200,
+    "username": "science_today",
+    "platform": "Facebook",
+    "text": "Stock market trends are unpredictable",
+    "likes": 690
+  },
+  {
+    "id": 201,
+    "username": "student_help",
+    "platform": "Instagram",
+    "text": "Voting is important in a democracy",
+    "likes": 389
+  },
+  {
+    "id": 202,
+    "username": "gamer_zone",
+    "platform": "Reddit",
+    "text": "Strategy games improve decision making",
+    "likes": 1116
+  },
+  {
+    "id": 203,
+    "username": "politics_watch",
+    "platform": "Twitter",
+    "text": "Healthy habits build a better life",
+    "likes": 1733
+  },
+  {
+    "id": 204,
+    "username": "crypto_trader",
+    "platform": "Twitter",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 657
+  },
+  {
+    "id": 205,
+    "username": "nature_lover",
+    "platform": "Instagram",
+    "text": "Climate change awareness is increasing",
+    "likes": 123
+  },
+  {
+    "id": 206,
+    "username": "daily_thoughts",
+    "platform": "Reddit",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 785
+  },
+  {
+    "id": 207,
+    "username": "travel_diaries",
+    "platform": "Twitter",
+    "text": "Exploring different cuisines is fun",
+    "likes": 813
+  },
+  {
+    "id": 208,
+    "username": "coding_student",
+    "platform": "Twitter",
+    "text": "Voting is important in a democracy",
+    "likes": 1684
+  },
+  {
+    "id": 209,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "Morning running improves stamina",
+    "likes": 60
+  },
+  {
+    "id": 210,
+    "username": "fitness_daily",
+    "platform": "Twitter",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 1910
+  },
+  {
+    "id": 211,
+    "username": "tech_updates",
+    "platform": "YouTube",
+    "text": "Protecting wildlife is important",
+    "likes": 1268
+  },
+  {
+    "id": 212,
+    "username": "science_today",
+    "platform": "Instagram",
+    "text": "Transformers are powerful NLP models",
+    "likes": 100
+  },
+  {
+    "id": 213,
+    "username": "movie_buff",
+    "platform": "YouTube",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1354
+  },
+  {
+    "id": 214,
+    "username": "sports_fan",
+    "platform": "YouTube",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1619
+  },
+  {
+    "id": 215,
+    "username": "student_help",
+    "platform": "Facebook",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 539
+  },
+  {
+    "id": 216,
+    "username": "daily_thoughts",
+    "platform": "LinkedIn",
+    "text": "Learning new programming concepts today",
+    "likes": 1393
+  },
+  {
+    "id": 217,
+    "username": "nature_lover",
+    "platform": "Instagram",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 1676
+  },
+  {
+    "id": 218,
+    "username": "career_path",
+    "platform": "Facebook",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1736
+  },
+  {
+    "id": 219,
+    "username": "tech_world",
+    "platform": "Facebook",
+    "text": "Solo travel can be life changing",
+    "likes": 1590
+  },
+  {
+    "id": 220,
+    "username": "fitness_daily",
+    "platform": "Instagram",
+    "text": "Recycling reduces environmental waste",
+    "likes": 1126
+  },
+  {
+    "id": 221,
+    "username": "ai_learner",
+    "platform": "Twitter",
+    "text": "Climate change research is important",
+    "likes": 98
+  },
+  {
+    "id": 222,
+    "username": "career_path",
+    "platform": "Facebook",
+    "text": "Government policies affect the economy",
+    "likes": 1558
+  },
+  {
+    "id": 223,
+    "username": "tech_updates",
+    "platform": "Instagram",
+    "text": "Business strategies evolve quickly",
+    "likes": 726
+  },
+  {
+    "id": 224,
+    "username": "startup_founder",
+    "platform": "Facebook",
+    "text": "The latest superhero film broke box office records",
+    "likes": 370
+  },
+  {
+    "id": 225,
+    "username": "politics_watch",
+    "platform": "YouTube",
+    "text": "Street food markets are always exciting",
+    "likes": 271
+  },
+  {
+    "id": 226,
+    "username": "sports_zone",
+    "platform": "Reddit",
+    "text": "Learning machine learning and deep learning",
+    "likes": 610
+  },
+  {
+    "id": 227,
+    "username": "coding_student",
+    "platform": "LinkedIn",
+    "text": "Reading daily helps personal growth",
+    "likes": 1644
+  },
+  {
+    "id": 228,
+    "username": "startup_founder",
+    "platform": "Facebook",
+    "text": "Healthy habits build a better life",
+    "likes": 958
+  },
+  {
+    "id": 229,
+    "username": "daily_thoughts",
+    "platform": "Reddit",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 1245
+  },
+  {
+    "id": 230,
+    "username": "sports_fan",
+    "platform": "YouTube",
+    "text": "Marketing plays a huge role in success",
+    "likes": 426
+  },
+  {
+    "id": 231,
+    "username": "health_guru",
+    "platform": "Facebook",
+    "text": "Regular health checkups are important",
+    "likes": 1659
+  },
+  {
+    "id": 232,
+    "username": "career_path",
+    "platform": "Twitter",
+    "text": "Transformers are powerful NLP models",
+    "likes": 963
+  },
+  {
+    "id": 233,
+    "username": "fitness_daily",
+    "platform": "Instagram",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 76
+  },
+  {
+    "id": 234,
+    "username": "sports_zone",
+    "platform": "LinkedIn",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 1764
+  },
+  {
+    "id": 235,
+    "username": "sports_zone",
+    "platform": "LinkedIn",
+    "text": "Public policies shape society",
+    "likes": 1484
+  },
+  {
+    "id": 236,
+    "username": "food_blog",
+    "platform": "YouTube",
+    "text": "Time management is important for students",
+    "likes": 18
+  },
+  {
+    "id": 237,
+    "username": "science_today",
+    "platform": "LinkedIn",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 1747
+  },
+  {
+    "id": 238,
+    "username": "daily_thoughts",
+    "platform": "Reddit",
+    "text": "Book recommendations are always welcome",
+    "likes": 1044
+  },
+  {
+    "id": 239,
+    "username": "ai_learner",
+    "platform": "Facebook",
+    "text": "Planting trees helps protect the environment",
+    "likes": 1844
+  },
+  {
+    "id": 240,
+    "username": "sports_zone",
+    "platform": "Instagram",
+    "text": "Recycling reduces environmental waste",
+    "likes": 1405
+  },
+  {
+    "id": 241,
+    "username": "travel_diaries",
+    "platform": "Instagram",
+    "text": "Planning a road trip across the country",
+    "likes": 1784
+  },
+  {
+    "id": 242,
+    "username": "gamer_zone",
+    "platform": "YouTube",
+    "text": "Played a new multiplayer game today",
+    "likes": 609
+  },
+  {
+    "id": 243,
+    "username": "book_reader",
+    "platform": "Twitter",
+    "text": "Marketing plays a huge role in success",
+    "likes": 771
+  },
+  {
+    "id": 244,
+    "username": "student_life",
+    "platform": "Instagram",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 1093
+  },
+  {
+    "id": 245,
+    "username": "ai_learner",
+    "platform": "YouTube",
+    "text": "The election debate was intense",
+    "likes": 1866
+  },
+  {
+    "id": 246,
+    "username": "health_awareness",
+    "platform": "Instagram",
+    "text": "Reading daily helps personal growth",
+    "likes": 246
+  },
+  {
+    "id": 247,
+    "username": "career_path",
+    "platform": "Twitter",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 1445
+  },
+  {
+    "id": 248,
+    "username": "startup_founder",
+    "platform": "Instagram",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 1089
+  },
+  {
+    "id": 249,
+    "username": "career_path",
+    "platform": "Reddit",
+    "text": "Reading books improves knowledge",
+    "likes": 1337
+  },
+  {
+    "id": 250,
+    "username": "life_quotes",
+    "platform": "LinkedIn",
+    "text": "Political discussions are trending online",
+    "likes": 485
+  },
+  {
+    "id": 251,
+    "username": "health_guru",
+    "platform": "YouTube",
+    "text": "Morning running improves stamina",
+    "likes": 771
+  },
+  {
+    "id": 252,
+    "username": "travel_diaries",
+    "platform": "YouTube",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 1414
+  },
+  {
+    "id": 253,
+    "username": "tech_world",
+    "platform": "Reddit",
+    "text": "Planning a road trip across the country",
+    "likes": 67
+  },
+  {
+    "id": 254,
+    "username": "nature_lover",
+    "platform": "Reddit",
+    "text": "Morning routines boost productivity",
+    "likes": 1792
+  },
+  {
+    "id": 255,
+    "username": "food_blog",
+    "platform": "Facebook",
+    "text": "Transformers are powerful NLP models",
+    "likes": 371
+  },
+  {
+    "id": 256,
+    "username": "sports_daily",
+    "platform": "Twitter",
+    "text": "Street food markets are always exciting",
+    "likes": 1724
+  },
+  {
+    "id": 257,
+    "username": "startup_founder",
+    "platform": "Reddit",
+    "text": "Played a new multiplayer game today",
+    "likes": 496
+  },
+  {
+    "id": 258,
+    "username": "health_guru",
+    "platform": "Twitter",
+    "text": "Climate change research is important",
+    "likes": 1695
+  },
+  {
+    "id": 259,
+    "username": "health_awareness",
+    "platform": "Facebook",
+    "text": "Morning routines boost productivity",
+    "likes": 264
+  },
+  {
+    "id": 260,
+    "username": "student_help",
+    "platform": "Facebook",
+    "text": "Watching classic films on the weekend",
+    "likes": 1225
+  },
+  {
+    "id": 261,
+    "username": "college_diaries",
+    "platform": "LinkedIn",
+    "text": "Strategy games improve decision making",
+    "likes": 1200
+  },
+  {
+    "id": 262,
+    "username": "tech_world",
+    "platform": "YouTube",
+    "text": "The election debate was intense",
+    "likes": 1362
+  },
+  {
+    "id": 263,
+    "username": "science_today",
+    "platform": "LinkedIn",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 271
+  },
+  {
+    "id": 264,
+    "username": "sports_daily",
+    "platform": "LinkedIn",
+    "text": "Protecting wildlife is important",
+    "likes": 1383
+  },
+  {
+    "id": 265,
+    "username": "food_blog",
+    "platform": "Facebook",
+    "text": "Book recommendations are always welcome",
+    "likes": 1518
+  },
+  {
+    "id": 266,
+    "username": "book_reader",
+    "platform": "YouTube",
+    "text": "The latest superhero film broke box office records",
+    "likes": 1058
+  },
+  {
+    "id": 267,
+    "username": "mental_support",
+    "platform": "Reddit",
+    "text": "Final year project development in progress",
+    "likes": 437
+  },
+  {
+    "id": 268,
+    "username": "health_awareness",
+    "platform": "Reddit",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 1466
+  },
+  {
+    "id": 269,
+    "username": "daily_thoughts",
+    "platform": "Instagram",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1308
+  },
+  {
+    "id": 270,
+    "username": "travel_diaries",
+    "platform": "Instagram",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 716
+  },
+  {
+    "id": 271,
+    "username": "student_life",
+    "platform": "Instagram",
+    "text": "Building web applications using Flask",
+    "likes": 1242
+  },
+  {
+    "id": 272,
+    "username": "health_awareness",
+    "platform": "Facebook",
+    "text": "Voting is important in a democracy",
+    "likes": 1613
+  },
+  {
+    "id": 273,
+    "username": "sports_daily",
+    "platform": "Facebook",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 1859
+  },
+  {
+    "id": 274,
+    "username": "sports_daily",
+    "platform": "LinkedIn",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 1586
+  },
+  {
+    "id": 275,
+    "username": "crypto_trader",
+    "platform": "Facebook",
+    "text": "Cooking pasta at home today",
+    "likes": 434
+  },
+  {
+    "id": 276,
+    "username": "mental_support",
+    "platform": "Instagram",
+    "text": "The football match yesterday was incredible",
+    "likes": 145
+  },
+  {
+    "id": 277,
+    "username": "fitness_motivation",
+    "platform": "Reddit",
+    "text": "Practicing gratitude improves happiness",
+    "likes": 1022
+  },
+  {
+    "id": 278,
+    "username": "startup_founder",
+    "platform": "Twitter",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 897
+  },
+  {
+    "id": 279,
+    "username": "mental_support",
+    "platform": "Twitter",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 1586
+  },
+  {
+    "id": 280,
+    "username": "ai_learner",
+    "platform": "LinkedIn",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 1539
+  },
+  {
+    "id": 281,
+    "username": "coding_student",
+    "platform": "YouTube",
+    "text": "Marketing plays a huge role in success",
+    "likes": 1257
+  },
+  {
+    "id": 282,
+    "username": "ai_learner",
+    "platform": "Twitter",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 1381
+  },
+  {
+    "id": 283,
+    "username": "sports_daily",
+    "platform": "Twitter",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 458
+  },
+  {
+    "id": 284,
+    "username": "science_today",
+    "platform": "Twitter",
+    "text": "Planning a road trip across the country",
+    "likes": 640
+  },
+  {
+    "id": 285,
+    "username": "daily_thoughts",
+    "platform": "Facebook",
+    "text": "Literature opens new perspectives",
+    "likes": 403
+  },
+  {
+    "id": 286,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Solo travel can be life changing",
+    "likes": 51
+  },
+  {
+    "id": 287,
+    "username": "sports_daily",
+    "platform": "YouTube",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 727
+  },
+  {
+    "id": 288,
+    "username": "mental_support",
+    "platform": "Facebook",
+    "text": "Physics explains many natural phenomena",
+    "likes": 652
+  },
+  {
+    "id": 289,
+    "username": "tech_world",
+    "platform": "Twitter",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 901
+  },
+  {
+    "id": 290,
+    "username": "sports_fan",
+    "platform": "Facebook",
+    "text": "Eating healthy food helps prevent diseases",
+    "likes": 15
+  },
+  {
+    "id": 291,
+    "username": "student_life",
+    "platform": "Instagram",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 1286
+  },
+  {
+    "id": 292,
+    "username": "sports_zone",
+    "platform": "YouTube",
+    "text": "Literature opens new perspectives",
+    "likes": 426
+  },
+  {
+    "id": 293,
+    "username": "food_blog",
+    "platform": "LinkedIn",
+    "text": "Morning running improves stamina",
+    "likes": 1589
+  },
+  {
+    "id": 294,
+    "username": "tech_updates",
+    "platform": "YouTube",
+    "text": "Book recommendations are always welcome",
+    "likes": 441
+  },
+  {
+    "id": 295,
+    "username": "mental_support",
+    "platform": "LinkedIn",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 133
+  },
+  {
+    "id": 296,
+    "username": "movie_buff",
+    "platform": "YouTube",
+    "text": "Morning routines boost productivity",
+    "likes": 392
+  },
+  {
+    "id": 297,
+    "username": "finance_tips",
+    "platform": "LinkedIn",
+    "text": "Book recommendations are always welcome",
+    "likes": 237
+  },
+  {
+    "id": 298,
+    "username": "nature_lover",
+    "platform": "YouTube",
+    "text": "Final year project development in progress",
+    "likes": 1548
+  },
+  {
+    "id": 299,
+    "username": "health_guru",
+    "platform": "Facebook",
+    "text": "Reading daily helps personal growth",
+    "likes": 736
+  },
+  {
+    "id": 300,
+    "username": "ai_learner",
+    "platform": "Instagram",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 94
+  },
+  {
+    "id": 301,
+    "username": "crypto_trader",
+    "platform": "Facebook",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 162
+  },
+  {
+    "id": 302,
+    "username": "life_quotes",
+    "platform": "Twitter",
+    "text": "Cricket world cup games are always exciting",
+    "likes": 1034
+  },
+  {
+    "id": 303,
+    "username": "movie_buff",
+    "platform": "Facebook",
+    "text": "Reading daily helps personal growth",
+    "likes": 1065
+  },
+  {
+    "id": 304,
+    "username": "daily_thoughts",
+    "platform": "Reddit",
+    "text": "Regular health checkups are important",
+    "likes": 702
+  },
+  {
+    "id": 305,
+    "username": "gamer_zone",
+    "platform": "LinkedIn",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 182
+  },
+  {
+    "id": 306,
+    "username": "food_blog",
+    "platform": "Reddit",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 761
+  },
+  {
+    "id": 307,
+    "username": "tech_updates",
+    "platform": "Reddit",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 1707
+  },
+  {
+    "id": 308,
+    "username": "tech_world",
+    "platform": "YouTube",
+    "text": "Marketing plays a huge role in success",
+    "likes": 1597
+  },
+  {
+    "id": 309,
+    "username": "gamer_zone",
+    "platform": "Reddit",
+    "text": "Transformers are powerful NLP models",
+    "likes": 1657
+  },
+  {
+    "id": 310,
+    "username": "nature_lover",
+    "platform": "Reddit",
+    "text": "Watching classic films on the weekend",
+    "likes": 553
+  },
+  {
+    "id": 311,
+    "username": "startup_founder",
+    "platform": "YouTube",
+    "text": "Government policies affect the economy",
+    "likes": 1367
+  },
+  {
+    "id": 312,
+    "username": "daily_thoughts",
+    "platform": "Reddit",
+    "text": "Balancing work and life is important",
+    "likes": 944
+  },
+  {
+    "id": 313,
+    "username": "daily_thoughts",
+    "platform": "Twitter",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1671
+  },
+  {
+    "id": 314,
+    "username": "science_today",
+    "platform": "LinkedIn",
+    "text": "Transformers are powerful NLP models",
+    "likes": 62
+  },
+  {
+    "id": 315,
+    "username": "finance_tips",
+    "platform": "Instagram",
+    "text": "Street food markets are always exciting",
+    "likes": 1956
+  },
+  {
+    "id": 316,
+    "username": "daily_thoughts",
+    "platform": "Facebook",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 1743
+  },
+  {
+    "id": 317,
+    "username": "mental_support",
+    "platform": "LinkedIn",
+    "text": "Protecting wildlife is important",
+    "likes": 974
+  },
+  {
+    "id": 318,
+    "username": "health_awareness",
+    "platform": "Instagram",
+    "text": "The election debate was intense",
+    "likes": 559
+  },
+  {
+    "id": 319,
+    "username": "student_life",
+    "platform": "Facebook",
+    "text": "Building web applications using Flask",
+    "likes": 1151
+  },
+  {
+    "id": 320,
+    "username": "fitness_daily",
+    "platform": "Twitter",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 1401
+  },
+  {
+    "id": 321,
+    "username": "politics_watch",
+    "platform": "Instagram",
+    "text": "Cricket world cup games are always exciting",
+    "likes": 1292
+  },
+  {
+    "id": 322,
+    "username": "sports_fan",
+    "platform": "LinkedIn",
+    "text": "The football match yesterday was incredible",
+    "likes": 785
+  },
+  {
+    "id": 323,
+    "username": "sports_fan",
+    "platform": "LinkedIn",
+    "text": "Business strategies evolve quickly",
+    "likes": 1271
+  },
+  {
+    "id": 324,
+    "username": "fitness_daily",
+    "platform": "LinkedIn",
+    "text": "Cricket world cup games are always exciting",
+    "likes": 153
+  },
+  {
+    "id": 325,
+    "username": "finance_tips",
+    "platform": "Twitter",
+    "text": "Solo travel can be life changing",
+    "likes": 242
+  },
+  {
+    "id": 326,
+    "username": "sports_fan",
+    "platform": "Reddit",
+    "text": "Regular health checkups are important",
+    "likes": 1727
+  },
+  {
+    "id": 327,
+    "username": "travel_diaries",
+    "platform": "Facebook",
+    "text": "Exploring new cities and cultures",
+    "likes": 1051
+  },
+  {
+    "id": 328,
+    "username": "student_life",
+    "platform": "LinkedIn",
+    "text": "Finished a great mystery novel",
+    "likes": 1163
+  },
+  {
+    "id": 329,
+    "username": "health_guru",
+    "platform": "Facebook",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 407
+  },
+  {
+    "id": 330,
+    "username": "student_life",
+    "platform": "Facebook",
+    "text": "Protecting wildlife is important",
+    "likes": 1975
+  },
+  {
+    "id": 331,
+    "username": "mental_support",
+    "platform": "Twitter",
+    "text": "Regular health checkups are important",
+    "likes": 1226
+  },
+  {
+    "id": 332,
+    "username": "crypto_trader",
+    "platform": "Facebook",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 470
+  },
+  {
+    "id": 333,
+    "username": "sports_daily",
+    "platform": "Instagram",
+    "text": "Final year project development in progress",
+    "likes": 1634
+  },
+  {
+    "id": 334,
+    "username": "fitness_motivation",
+    "platform": "Facebook",
+    "text": "Time management is important for students",
+    "likes": 332
+  },
+  {
+    "id": 335,
+    "username": "coding_student",
+    "platform": "Instagram",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 1208
+  },
+  {
+    "id": 336,
+    "username": "mind_care",
+    "platform": "LinkedIn",
+    "text": "Learning new programming concepts today",
+    "likes": 1237
+  },
+  {
+    "id": 337,
+    "username": "college_diaries",
+    "platform": "Instagram",
+    "text": "Street food markets are always exciting",
+    "likes": 1539
+  },
+  {
+    "id": 338,
+    "username": "daily_thoughts",
+    "platform": "Twitter",
+    "text": "Time management is important for students",
+    "likes": 521
+  },
+  {
+    "id": 339,
+    "username": "food_blog",
+    "platform": "Twitter",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 1408
+  },
+  {
+    "id": 340,
+    "username": "science_today",
+    "platform": "Facebook",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1908
+  },
+  {
+    "id": 341,
+    "username": "ai_learner",
+    "platform": "Reddit",
+    "text": "Studying hard for upcoming exams",
+    "likes": 204
+  },
+  {
+    "id": 342,
+    "username": "fitness_motivation",
+    "platform": "Reddit",
+    "text": "The election debate was intense",
+    "likes": 192
+  },
+  {
+    "id": 343,
+    "username": "mind_care",
+    "platform": "Reddit",
+    "text": "Marketing plays a huge role in success",
+    "likes": 1489
+  },
+  {
+    "id": 344,
+    "username": "college_diaries",
+    "platform": "Facebook",
+    "text": "Learning new programming concepts today",
+    "likes": 278
+  },
+  {
+    "id": 345,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Public policies shape society",
+    "likes": 813
+  },
+  {
+    "id": 346,
+    "username": "politics_watch",
+    "platform": "Reddit",
+    "text": "Finished a great mystery novel",
+    "likes": 1223
+  },
+  {
+    "id": 347,
+    "username": "sports_zone",
+    "platform": "Reddit",
+    "text": "Exploring different cuisines is fun",
+    "likes": 622
+  },
+  {
+    "id": 348,
+    "username": "startup_founder",
+    "platform": "Instagram",
+    "text": "Movie soundtracks can make scenes unforgettable",
+    "likes": 272
+  },
+  {
+    "id": 349,
+    "username": "politics_watch",
+    "platform": "Reddit",
+    "text": "Voting is important in a democracy",
+    "likes": 1925
+  },
+  {
+    "id": 350,
+    "username": "tech_world",
+    "platform": "YouTube",
+    "text": "Literature opens new perspectives",
+    "likes": 363
+  },
+  {
+    "id": 351,
+    "username": "career_path",
+    "platform": "Reddit",
+    "text": "Recycling reduces environmental waste",
+    "likes": 1092
+  },
+  {
+    "id": 352,
+    "username": "book_reader",
+    "platform": "Reddit",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 1822
+  },
+  {
+    "id": 353,
+    "username": "nature_lover",
+    "platform": "Twitter",
+    "text": "Exploring different cuisines is fun",
+    "likes": 445
+  },
+  {
+    "id": 354,
+    "username": "food_blog",
+    "platform": "LinkedIn",
+    "text": "Recycling reduces environmental waste",
+    "likes": 1439
+  },
+  {
+    "id": 355,
+    "username": "fitness_daily",
+    "platform": "YouTube",
+    "text": "Street food markets are always exciting",
+    "likes": 1551
+  },
+  {
+    "id": 356,
+    "username": "fitness_motivation",
+    "platform": "Twitter",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 155
+  },
+  {
+    "id": 357,
+    "username": "politics_watch",
+    "platform": "YouTube",
+    "text": "Strategy games improve decision making",
+    "likes": 417
+  },
+  {
+    "id": 358,
+    "username": "ai_learner",
+    "platform": "Reddit",
+    "text": "Political discussions are trending online",
+    "likes": 190
+  },
+  {
+    "id": 359,
+    "username": "nature_lover",
+    "platform": "Facebook",
+    "text": "Investing in stocks requires patience",
+    "likes": 1339
+  },
+  {
+    "id": 360,
+    "username": "nature_lover",
+    "platform": "YouTube",
+    "text": "Solo travel can be life changing",
+    "likes": 1429
+  },
+  {
+    "id": 361,
+    "username": "college_diaries",
+    "platform": "LinkedIn",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 593
+  },
+  {
+    "id": 362,
+    "username": "mind_care",
+    "platform": "Instagram",
+    "text": "Time management is important for students",
+    "likes": 1634
+  },
+  {
+    "id": 363,
+    "username": "health_awareness",
+    "platform": "Twitter",
+    "text": "Recycling reduces environmental waste",
+    "likes": 1785
+  },
+  {
+    "id": 364,
+    "username": "mental_support",
+    "platform": "Twitter",
+    "text": "Studying hard for upcoming exams",
+    "likes": 378
+  },
+  {
+    "id": 365,
+    "username": "college_diaries",
+    "platform": "Reddit",
+    "text": "Strategy games improve decision making",
+    "likes": 843
+  },
+  {
+    "id": 366,
+    "username": "tech_world",
+    "platform": "Facebook",
+    "text": "Final year project development in progress",
+    "likes": 1129
+  },
+  {
+    "id": 367,
+    "username": "college_diaries",
+    "platform": "Instagram",
+    "text": "Marketing plays a huge role in success",
+    "likes": 420
+  },
+  {
+    "id": 368,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Learning new programming concepts today",
+    "likes": 1141
+  },
+  {
+    "id": 369,
+    "username": "travel_diaries",
+    "platform": "YouTube",
+    "text": "Streaming gameplay online is popular now",
+    "likes": 694
+  },
+  {
+    "id": 370,
+    "username": "science_today",
+    "platform": "Facebook",
+    "text": "The latest superhero film broke box office records",
+    "likes": 417
+  },
+  {
+    "id": 371,
+    "username": "life_quotes",
+    "platform": "Instagram",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 1625
+  },
+  {
+    "id": 372,
+    "username": "gamer_zone",
+    "platform": "Reddit",
+    "text": "Building web applications using Flask",
+    "likes": 582
+  },
+  {
+    "id": 373,
+    "username": "book_reader",
+    "platform": "Reddit",
+    "text": "The election debate was intense",
+    "likes": 551
+  },
+  {
+    "id": 374,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Regular health checkups are important",
+    "likes": 1906
+  },
+  {
+    "id": 375,
+    "username": "mental_support",
+    "platform": "Facebook",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 437
+  },
+  {
+    "id": 376,
+    "username": "tech_updates",
+    "platform": "LinkedIn",
+    "text": "Political discussions are trending online",
+    "likes": 632
+  },
+  {
+    "id": 377,
+    "username": "sports_fan",
+    "platform": "Reddit",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 939
+  },
+  {
+    "id": 378,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "Reading books improves knowledge",
+    "likes": 411
+  },
+  {
+    "id": 379,
+    "username": "student_help",
+    "platform": "Facebook",
+    "text": "Played a new multiplayer game today",
+    "likes": 1765
+  },
+  {
+    "id": 380,
+    "username": "health_guru",
+    "platform": "Reddit",
+    "text": "Physics explains many natural phenomena",
+    "likes": 1564
+  },
+  {
+    "id": 381,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 722
+  },
+  {
+    "id": 382,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Watching classic films on the weekend",
+    "likes": 637
+  },
+  {
+    "id": 383,
+    "username": "college_diaries",
+    "platform": "YouTube",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 1100
+  },
+  {
+    "id": 384,
+    "username": "travel_diaries",
+    "platform": "Facebook",
+    "text": "Investing in stocks requires patience",
+    "likes": 554
+  },
+  {
+    "id": 385,
+    "username": "book_reader",
+    "platform": "Twitter",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 369
+  },
+  {
+    "id": 386,
+    "username": "food_blog",
+    "platform": "Facebook",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 1190
+  },
+  {
+    "id": 387,
+    "username": "science_today",
+    "platform": "Reddit",
+    "text": "Protecting wildlife is important",
+    "likes": 1180
+  },
+  {
+    "id": 388,
+    "username": "finance_tips",
+    "platform": "Twitter",
+    "text": "Learning new programming concepts today",
+    "likes": 426
+  },
+  {
+    "id": 389,
+    "username": "movie_buff",
+    "platform": "Facebook",
+    "text": "Political discussions are trending online",
+    "likes": 1374
+  },
+  {
+    "id": 390,
+    "username": "tech_updates",
+    "platform": "Reddit",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 1556
+  },
+  {
+    "id": 391,
+    "username": "tech_updates",
+    "platform": "Facebook",
+    "text": "Beach vacations are relaxing",
+    "likes": 1059
+  },
+  {
+    "id": 392,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Solo travel can be life changing",
+    "likes": 1619
+  },
+  {
+    "id": 393,
+    "username": "mind_care",
+    "platform": "Facebook",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 1624
+  },
+  {
+    "id": 394,
+    "username": "career_path",
+    "platform": "YouTube",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 1212
+  },
+  {
+    "id": 395,
+    "username": "politics_watch",
+    "platform": "Instagram",
+    "text": "Studying hard for upcoming exams",
+    "likes": 1804
+  },
+  {
+    "id": 396,
+    "username": "crypto_trader",
+    "platform": "Reddit",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 303
+  },
+  {
+    "id": 397,
+    "username": "mental_support",
+    "platform": "YouTube",
+    "text": "Cooking pasta at home today",
+    "likes": 574
+  },
+  {
+    "id": 398,
+    "username": "ai_learner",
+    "platform": "YouTube",
+    "text": "Practicing gratitude improves happiness",
+    "likes": 968
+  },
+  {
+    "id": 399,
+    "username": "mental_support",
+    "platform": "Instagram",
+    "text": "The latest superhero film broke box office records",
+    "likes": 503
+  },
+  {
+    "id": 400,
+    "username": "coding_student",
+    "platform": "Instagram",
+    "text": "Healthy habits build a better life",
+    "likes": 1925
+  },
+  {
+    "id": 401,
+    "username": "mental_support",
+    "platform": "YouTube",
+    "text": "Recycling reduces environmental waste",
+    "likes": 586
+  },
+  {
+    "id": 402,
+    "username": "sports_zone",
+    "platform": "Twitter",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 347
+  },
+  {
+    "id": 403,
+    "username": "tech_world",
+    "platform": "Facebook",
+    "text": "Time management is important for students",
+    "likes": 1714
+  },
+  {
+    "id": 404,
+    "username": "fitness_daily",
+    "platform": "YouTube",
+    "text": "Reading books improves knowledge",
+    "likes": 1797
+  },
+  {
+    "id": 405,
+    "username": "sports_fan",
+    "platform": "YouTube",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 1663
+  },
+  {
+    "id": 406,
+    "username": "gamer_zone",
+    "platform": "Instagram",
+    "text": "Watching classic films on the weekend",
+    "likes": 863
+  },
+  {
+    "id": 407,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 512
+  },
+  {
+    "id": 408,
+    "username": "book_reader",
+    "platform": "Instagram",
+    "text": "Healthy habits build a better life",
+    "likes": 214
+  },
+  {
+    "id": 409,
+    "username": "health_guru",
+    "platform": "Reddit",
+    "text": "Protecting wildlife is important",
+    "likes": 1057
+  },
+  {
+    "id": 410,
+    "username": "fitness_motivation",
+    "platform": "Instagram",
+    "text": "Beach vacations are relaxing",
+    "likes": 396
+  },
+  {
+    "id": 411,
+    "username": "student_help",
+    "platform": "Instagram",
+    "text": "Transformers are powerful NLP models",
+    "likes": 1942
+  },
+  {
+    "id": 412,
+    "username": "health_awareness",
+    "platform": "YouTube",
+    "text": "Time management is important for students",
+    "likes": 1420
+  },
+  {
+    "id": 413,
+    "username": "ai_learner",
+    "platform": "Reddit",
+    "text": "Morning running improves stamina",
+    "likes": 1229
+  },
+  {
+    "id": 414,
+    "username": "student_life",
+    "platform": "Instagram",
+    "text": "Street food markets are always exciting",
+    "likes": 1244
+  },
+  {
+    "id": 415,
+    "username": "sports_zone",
+    "platform": "Facebook",
+    "text": "Reading books improves knowledge",
+    "likes": 1758
+  },
+  {
+    "id": 416,
+    "username": "gamer_zone",
+    "platform": "LinkedIn",
+    "text": "Climate change research is important",
+    "likes": 515
+  },
+  {
+    "id": 417,
+    "username": "health_awareness",
+    "platform": "Twitter",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 1592
+  },
+  {
+    "id": 418,
+    "username": "movie_buff",
+    "platform": "YouTube",
+    "text": "Transformers are powerful NLP models",
+    "likes": 1094
+  },
+  {
+    "id": 419,
+    "username": "coding_student",
+    "platform": "YouTube",
+    "text": "Street food markets are always exciting",
+    "likes": 49
+  },
+  {
+    "id": 420,
+    "username": "book_reader",
+    "platform": "Reddit",
+    "text": "Building web applications using Flask",
+    "likes": 58
+  },
+  {
+    "id": 421,
+    "username": "fitness_motivation",
+    "platform": "Instagram",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 812
+  },
+  {
+    "id": 422,
+    "username": "crypto_trader",
+    "platform": "Twitter",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1526
+  },
+  {
+    "id": 423,
+    "username": "health_awareness",
+    "platform": "Twitter",
+    "text": "Business strategies evolve quickly",
+    "likes": 1576
+  },
+  {
+    "id": 424,
+    "username": "tech_updates",
+    "platform": "Facebook",
+    "text": "Voting is important in a democracy",
+    "likes": 151
+  },
+  {
+    "id": 425,
+    "username": "coding_student",
+    "platform": "Facebook",
+    "text": "Studying hard for upcoming exams",
+    "likes": 672
+  },
+  {
+    "id": 426,
+    "username": "sports_zone",
+    "platform": "Facebook",
+    "text": "Morning running improves stamina",
+    "likes": 1388
+  },
+  {
+    "id": 427,
+    "username": "sports_zone",
+    "platform": "Instagram",
+    "text": "The football match yesterday was incredible",
+    "likes": 1759
+  },
+  {
+    "id": 428,
+    "username": "tech_updates",
+    "platform": "Facebook",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 1899
+  },
+  {
+    "id": 429,
+    "username": "politics_watch",
+    "platform": "Twitter",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 1863
+  },
+  {
+    "id": 430,
+    "username": "college_diaries",
+    "platform": "YouTube",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 1103
+  },
+  {
+    "id": 431,
+    "username": "mind_care",
+    "platform": "YouTube",
+    "text": "Learning new programming concepts today",
+    "likes": 1042
+  },
+  {
+    "id": 432,
+    "username": "movie_buff",
+    "platform": "Twitter",
+    "text": "Cloud computing is the future of software",
+    "likes": 1909
+  },
+  {
+    "id": 433,
+    "username": "crypto_trader",
+    "platform": "LinkedIn",
+    "text": "Time management is important for students",
+    "likes": 1514
+  },
+  {
+    "id": 434,
+    "username": "health_guru",
+    "platform": "Facebook",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 1420
+  },
+  {
+    "id": 435,
+    "username": "mind_care",
+    "platform": "YouTube",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 1103
+  },
+  {
+    "id": 436,
+    "username": "book_reader",
+    "platform": "YouTube",
+    "text": "Planting trees helps protect the environment",
+    "likes": 447
+  },
+  {
+    "id": 437,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 879
+  },
+  {
+    "id": 438,
+    "username": "nature_lover",
+    "platform": "Facebook",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 1398
+  },
+  {
+    "id": 439,
+    "username": "startup_founder",
+    "platform": "Instagram",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1356
+  },
+  {
+    "id": 440,
+    "username": "science_today",
+    "platform": "Facebook",
+    "text": "Cryptocurrency markets are very volatile",
+    "likes": 1133
+  },
+  {
+    "id": 441,
+    "username": "student_life",
+    "platform": "Twitter",
+    "text": "Studying hard for upcoming exams",
+    "likes": 1232
+  },
+  {
+    "id": 442,
+    "username": "career_path",
+    "platform": "Instagram",
+    "text": "Physics explains many natural phenomena",
+    "likes": 596
+  },
+  {
+    "id": 443,
+    "username": "gamer_zone",
+    "platform": "LinkedIn",
+    "text": "Played a new multiplayer game today",
+    "likes": 1229
+  },
+  {
+    "id": 444,
+    "username": "gamer_zone",
+    "platform": "YouTube",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 735
+  },
+  {
+    "id": 445,
+    "username": "sports_fan",
+    "platform": "Reddit",
+    "text": "Political discussions are trending online",
+    "likes": 798
+  },
+  {
+    "id": 446,
+    "username": "career_path",
+    "platform": "Reddit",
+    "text": "Eating healthy food helps prevent diseases",
+    "likes": 1213
+  },
+  {
+    "id": 447,
+    "username": "mental_support",
+    "platform": "Facebook",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 32
+  },
+  {
+    "id": 448,
+    "username": "tech_world",
+    "platform": "Reddit",
+    "text": "Reading daily helps personal growth",
+    "likes": 1242
+  },
+  {
+    "id": 449,
+    "username": "nature_lover",
+    "platform": "Facebook",
+    "text": "Trying to stay positive during tough times",
+    "likes": 1193
+  },
+  {
+    "id": 450,
+    "username": "movie_buff",
+    "platform": "Instagram",
+    "text": "Government policies affect the economy",
+    "likes": 485
+  },
+  {
+    "id": 451,
+    "username": "sports_fan",
+    "platform": "Facebook",
+    "text": "Transformers are powerful NLP models",
+    "likes": 1860
+  },
+  {
+    "id": 452,
+    "username": "tech_world",
+    "platform": "LinkedIn",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 11
+  },
+  {
+    "id": 453,
+    "username": "student_help",
+    "platform": "Reddit",
+    "text": "Finished a great mystery novel",
+    "likes": 413
+  },
+  {
+    "id": 454,
+    "username": "sports_zone",
+    "platform": "Instagram",
+    "text": "Public policies shape society",
+    "likes": 1909
+  },
+  {
+    "id": 455,
+    "username": "science_today",
+    "platform": "LinkedIn",
+    "text": "Reading daily helps personal growth",
+    "likes": 1033
+  },
+  {
+    "id": 456,
+    "username": "student_help",
+    "platform": "Twitter",
+    "text": "Time management is important for students",
+    "likes": 1588
+  },
+  {
+    "id": 457,
+    "username": "fitness_daily",
+    "platform": "YouTube",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 1370
+  },
+  {
+    "id": 458,
+    "username": "travel_diaries",
+    "platform": "YouTube",
+    "text": "Planning a road trip across the country",
+    "likes": 1835
+  },
+  {
+    "id": 459,
+    "username": "food_blog",
+    "platform": "Facebook",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 88
+  },
+  {
+    "id": 460,
+    "username": "sports_daily",
+    "platform": "Twitter",
+    "text": "Literature opens new perspectives",
+    "likes": 1479
+  },
+  {
+    "id": 461,
+    "username": "mental_support",
+    "platform": "YouTube",
+    "text": "Saving money is important for financial stability",
+    "likes": 1886
+  },
+  {
+    "id": 462,
+    "username": "mind_care",
+    "platform": "Twitter",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 1856
+  },
+  {
+    "id": 463,
+    "username": "sports_daily",
+    "platform": "Reddit",
+    "text": "Cricket world cup games are always exciting",
+    "likes": 1172
+  },
+  {
+    "id": 464,
+    "username": "sports_daily",
+    "platform": "Reddit",
+    "text": "Finished a great mystery novel",
+    "likes": 1171
+  },
+  {
+    "id": 465,
+    "username": "fitness_daily",
+    "platform": "Facebook",
+    "text": "Climate change awareness is increasing",
+    "likes": 31
+  },
+  {
+    "id": 466,
+    "username": "student_life",
+    "platform": "YouTube",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 12
+  },
+  {
+    "id": 467,
+    "username": "crypto_trader",
+    "platform": "LinkedIn",
+    "text": "Cooking pasta at home today",
+    "likes": 541
+  },
+  {
+    "id": 468,
+    "username": "fitness_motivation",
+    "platform": "Instagram",
+    "text": "Stock market trends are unpredictable",
+    "likes": 917
+  },
+  {
+    "id": 469,
+    "username": "tech_updates",
+    "platform": "Instagram",
+    "text": "Protecting wildlife is important",
+    "likes": 898
+  },
+  {
+    "id": 470,
+    "username": "career_path",
+    "platform": "Instagram",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 336
+  },
+  {
+    "id": 471,
+    "username": "science_today",
+    "platform": "Reddit",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1033
+  },
+  {
+    "id": 472,
+    "username": "finance_tips",
+    "platform": "LinkedIn",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1168
+  },
+  {
+    "id": 473,
+    "username": "student_life",
+    "platform": "Facebook",
+    "text": "Learning new programming concepts today",
+    "likes": 1352
+  },
+  {
+    "id": 474,
+    "username": "daily_thoughts",
+    "platform": "Reddit",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 1424
+  },
+  {
+    "id": 475,
+    "username": "startup_founder",
+    "platform": "Instagram",
+    "text": "Investing in stocks requires patience",
+    "likes": 370
+  },
+  {
+    "id": 476,
+    "username": "sports_fan",
+    "platform": "Facebook",
+    "text": "Climate change research is important",
+    "likes": 1863
+  },
+  {
+    "id": 477,
+    "username": "food_blog",
+    "platform": "Twitter",
+    "text": "Protecting wildlife is important",
+    "likes": 659
+  },
+  {
+    "id": 478,
+    "username": "mind_care",
+    "platform": "YouTube",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 624
+  },
+  {
+    "id": 479,
+    "username": "daily_thoughts",
+    "platform": "Facebook",
+    "text": "The latest superhero film broke box office records",
+    "likes": 744
+  },
+  {
+    "id": 480,
+    "username": "nature_lover",
+    "platform": "Facebook",
+    "text": "Studying hard for upcoming exams",
+    "likes": 1680
+  },
+  {
+    "id": 481,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Planting trees helps protect the environment",
+    "likes": 1306
+  },
+  {
+    "id": 482,
+    "username": "health_awareness",
+    "platform": "Reddit",
+    "text": "Investing in stocks requires patience",
+    "likes": 1710
+  },
+  {
+    "id": 483,
+    "username": "science_today",
+    "platform": "LinkedIn",
+    "text": "Cricket world cup games are always exciting",
+    "likes": 1622
+  },
+  {
+    "id": 484,
+    "username": "college_diaries",
+    "platform": "Facebook",
+    "text": "Reading daily helps personal growth",
+    "likes": 474
+  },
+  {
+    "id": 485,
+    "username": "student_life",
+    "platform": "YouTube",
+    "text": "Public policies shape society",
+    "likes": 529
+  },
+  {
+    "id": 486,
+    "username": "startup_founder",
+    "platform": "LinkedIn",
+    "text": "Studying hard for upcoming exams",
+    "likes": 1370
+  },
+  {
+    "id": 487,
+    "username": "food_blog",
+    "platform": "LinkedIn",
+    "text": "Voting is important in a democracy",
+    "likes": 1302
+  },
+  {
+    "id": 488,
+    "username": "student_life",
+    "platform": "Instagram",
+    "text": "Final year project development in progress",
+    "likes": 571
+  },
+  {
+    "id": 489,
+    "username": "tech_updates",
+    "platform": "LinkedIn",
+    "text": "Climate change research is important",
+    "likes": 1919
+  },
+  {
+    "id": 490,
+    "username": "student_life",
+    "platform": "Facebook",
+    "text": "The election debate was intense",
+    "likes": 1973
+  },
+  {
+    "id": 491,
+    "username": "health_guru",
+    "platform": "Facebook",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 1426
+  },
+  {
+    "id": 492,
+    "username": "fitness_motivation",
+    "platform": "Facebook",
+    "text": "Physics explains many natural phenomena",
+    "likes": 595
+  },
+  {
+    "id": 493,
+    "username": "tech_world",
+    "platform": "Facebook",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 200
+  },
+  {
+    "id": 494,
+    "username": "sports_daily",
+    "platform": "Twitter",
+    "text": "Protecting wildlife is important",
+    "likes": 1273
+  },
+  {
+    "id": 495,
+    "username": "movie_buff",
+    "platform": "LinkedIn",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 983
+  },
+  {
+    "id": 496,
+    "username": "sports_daily",
+    "platform": "YouTube",
+    "text": "Reading books improves knowledge",
+    "likes": 1454
+  },
+  {
+    "id": 497,
+    "username": "science_today",
+    "platform": "YouTube",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 137
+  },
+  {
+    "id": 498,
+    "username": "crypto_trader",
+    "platform": "Facebook",
+    "text": "Investing in stocks requires patience",
+    "likes": 1302
+  },
+  {
+    "id": 499,
+    "username": "fitness_daily",
+    "platform": "Instagram",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 412
+  },
+  {
+    "id": 500,
+    "username": "coding_student",
+    "platform": "Reddit",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 286
+  },
+  {
+    "id": 501,
+    "username": "sports_fan",
+    "platform": "LinkedIn",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 700
+  },
+  {
+    "id": 502,
+    "username": "science_today",
+    "platform": "LinkedIn",
+    "text": "The new sci-fi movie had amazing visuals",
+    "likes": 469
+  },
+  {
+    "id": 503,
+    "username": "book_reader",
+    "platform": "Instagram",
+    "text": "Building web applications using Flask",
+    "likes": 1391
+  },
+  {
+    "id": 504,
+    "username": "travel_diaries",
+    "platform": "Twitter",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 597
+  },
+  {
+    "id": 505,
+    "username": "sports_fan",
+    "platform": "Instagram",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 485
+  },
+  {
+    "id": 506,
+    "username": "gamer_zone",
+    "platform": "Twitter",
+    "text": "Building a company requires persistence",
+    "likes": 517
+  },
+  {
+    "id": 507,
+    "username": "life_quotes",
+    "platform": "Reddit",
+    "text": "Business strategies evolve quickly",
+    "likes": 250
+  },
+  {
+    "id": 508,
+    "username": "startup_founder",
+    "platform": "Instagram",
+    "text": "Learning new programming concepts today",
+    "likes": 848
+  },
+  {
+    "id": 509,
+    "username": "nature_lover",
+    "platform": "Reddit",
+    "text": "Physics explains many natural phenomena",
+    "likes": 1502
+  },
+  {
+    "id": 510,
+    "username": "college_diaries",
+    "platform": "Twitter",
+    "text": "Cloud computing is the future of software",
+    "likes": 852
+  },
+  {
+    "id": 511,
+    "username": "tech_world",
+    "platform": "Reddit",
+    "text": "Eating healthy food helps prevent diseases",
+    "likes": 1054
+  },
+  {
+    "id": 512,
+    "username": "crypto_trader",
+    "platform": "Instagram",
+    "text": "Stock market trends are unpredictable",
+    "likes": 585
+  },
+  {
+    "id": 513,
+    "username": "mind_care",
+    "platform": "Reddit",
+    "text": "Cooking pasta at home today",
+    "likes": 710
+  },
+  {
+    "id": 514,
+    "username": "tech_world",
+    "platform": "YouTube",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 1133
+  },
+  {
+    "id": 515,
+    "username": "tech_updates",
+    "platform": "Facebook",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 635
+  },
+  {
+    "id": 516,
+    "username": "nature_lover",
+    "platform": "Instagram",
+    "text": "Exploring new cities and cultures",
+    "likes": 1014
+  },
+  {
+    "id": 517,
+    "username": "career_path",
+    "platform": "Facebook",
+    "text": "Book recommendations are always welcome",
+    "likes": 1501
+  },
+  {
+    "id": 518,
+    "username": "book_reader",
+    "platform": "Facebook",
+    "text": "Beach vacations are relaxing",
+    "likes": 1738
+  },
+  {
+    "id": 519,
+    "username": "coding_student",
+    "platform": "YouTube",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 1089
+  },
+  {
+    "id": 520,
+    "username": "student_help",
+    "platform": "YouTube",
+    "text": "Street food markets are always exciting",
+    "likes": 316
+  },
+  {
+    "id": 521,
+    "username": "student_life",
+    "platform": "YouTube",
+    "text": "Healthy habits build a better life",
+    "likes": 1816
+  },
+  {
+    "id": 522,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Cooking pasta at home today",
+    "likes": 433
+  },
+  {
+    "id": 523,
+    "username": "health_awareness",
+    "platform": "Reddit",
+    "text": "Physics explains many natural phenomena",
+    "likes": 1216
+  },
+  {
+    "id": 524,
+    "username": "career_path",
+    "platform": "LinkedIn",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 179
+  },
+  {
+    "id": 525,
+    "username": "career_path",
+    "platform": "Instagram",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 543
+  },
+  {
+    "id": 526,
+    "username": "daily_thoughts",
+    "platform": "YouTube",
+    "text": "Reading daily helps personal growth",
+    "likes": 1851
+  },
+  {
+    "id": 527,
+    "username": "tech_updates",
+    "platform": "Instagram",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 849
+  },
+  {
+    "id": 528,
+    "username": "movie_buff",
+    "platform": "Reddit",
+    "text": "Beach vacations are relaxing",
+    "likes": 1605
+  },
+  {
+    "id": 529,
+    "username": "fitness_motivation",
+    "platform": "Reddit",
+    "text": "Voting is important in a democracy",
+    "likes": 1220
+  },
+  {
+    "id": 530,
+    "username": "politics_watch",
+    "platform": "Reddit",
+    "text": "The football match yesterday was incredible",
+    "likes": 1041
+  },
+  {
+    "id": 531,
+    "username": "student_help",
+    "platform": "YouTube",
+    "text": "Healthy habits build a better life",
+    "likes": 574
+  },
+  {
+    "id": 532,
+    "username": "college_diaries",
+    "platform": "Facebook",
+    "text": "The latest superhero film broke box office records",
+    "likes": 906
+  },
+  {
+    "id": 533,
+    "username": "student_help",
+    "platform": "Twitter",
+    "text": "Streaming gameplay online is popular now",
+    "likes": 107
+  },
+  {
+    "id": 534,
+    "username": "book_reader",
+    "platform": "Twitter",
+    "text": "Planting trees helps protect the environment",
+    "likes": 41
+  },
+  {
+    "id": 535,
+    "username": "science_today",
+    "platform": "Instagram",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 1085
+  },
+  {
+    "id": 536,
+    "username": "mind_care",
+    "platform": "LinkedIn",
+    "text": "Reading daily helps personal growth",
+    "likes": 1311
+  },
+  {
+    "id": 537,
+    "username": "sports_daily",
+    "platform": "Instagram",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 634
+  },
+  {
+    "id": 538,
+    "username": "coding_student",
+    "platform": "YouTube",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 1515
+  },
+  {
+    "id": 539,
+    "username": "ai_learner",
+    "platform": "LinkedIn",
+    "text": "Exploring new cities and cultures",
+    "likes": 727
+  },
+  {
+    "id": 540,
+    "username": "movie_buff",
+    "platform": "YouTube",
+    "text": "Cooking pasta at home today",
+    "likes": 568
+  },
+  {
+    "id": 541,
+    "username": "student_help",
+    "platform": "Reddit",
+    "text": "Exploring different cuisines is fun",
+    "likes": 1841
+  },
+  {
+    "id": 542,
+    "username": "fitness_motivation",
+    "platform": "Reddit",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 1282
+  },
+  {
+    "id": 543,
+    "username": "ai_learner",
+    "platform": "Instagram",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 69
+  },
+  {
+    "id": 544,
+    "username": "life_quotes",
+    "platform": "LinkedIn",
+    "text": "Healthy habits build a better life",
+    "likes": 1618
+  },
+  {
+    "id": 545,
+    "username": "sports_fan",
+    "platform": "Twitter",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 660
+  },
+  {
+    "id": 546,
+    "username": "mind_care",
+    "platform": "YouTube",
+    "text": "Mental health awareness is very important",
+    "likes": 1840
+  },
+  {
+    "id": 547,
+    "username": "nature_lover",
+    "platform": "YouTube",
+    "text": "Physics explains many natural phenomena",
+    "likes": 1959
+  },
+  {
+    "id": 548,
+    "username": "health_guru",
+    "platform": "Facebook",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 724
+  },
+  {
+    "id": 549,
+    "username": "politics_watch",
+    "platform": "Facebook",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 150
+  },
+  {
+    "id": 550,
+    "username": "daily_thoughts",
+    "platform": "YouTube",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 327
+  },
+  {
+    "id": 551,
+    "username": "health_guru",
+    "platform": "YouTube",
+    "text": "Climate change research is important",
+    "likes": 608
+  },
+  {
+    "id": 552,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Morning running improves stamina",
+    "likes": 199
+  },
+  {
+    "id": 553,
+    "username": "ai_learner",
+    "platform": "Twitter",
+    "text": "The football match yesterday was incredible",
+    "likes": 1913
+  },
+  {
+    "id": 554,
+    "username": "mind_care",
+    "platform": "LinkedIn",
+    "text": "Investing in stocks requires patience",
+    "likes": 192
+  },
+  {
+    "id": 555,
+    "username": "finance_tips",
+    "platform": "Facebook",
+    "text": "Book recommendations are always welcome",
+    "likes": 1621
+  },
+  {
+    "id": 556,
+    "username": "science_today",
+    "platform": "Reddit",
+    "text": "Cooking pasta at home today",
+    "likes": 613
+  },
+  {
+    "id": 557,
+    "username": "mental_support",
+    "platform": "Instagram",
+    "text": "Watching classic films on the weekend",
+    "likes": 82
+  },
+  {
+    "id": 558,
+    "username": "sports_fan",
+    "platform": "YouTube",
+    "text": "Learning new programming concepts today",
+    "likes": 71
+  },
+  {
+    "id": 559,
+    "username": "travel_diaries",
+    "platform": "Twitter",
+    "text": "Final year project development in progress",
+    "likes": 1536
+  },
+  {
+    "id": 560,
+    "username": "mind_care",
+    "platform": "YouTube",
+    "text": "Book recommendations are always welcome",
+    "likes": 46
+  },
+  {
+    "id": 561,
+    "username": "sports_fan",
+    "platform": "LinkedIn",
+    "text": "Recycling reduces environmental waste",
+    "likes": 998
+  },
+  {
+    "id": 562,
+    "username": "nature_lover",
+    "platform": "YouTube",
+    "text": "Book recommendations are always welcome",
+    "likes": 777
+  },
+  {
+    "id": 563,
+    "username": "tech_world",
+    "platform": "Instagram",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 377
+  },
+  {
+    "id": 564,
+    "username": "politics_watch",
+    "platform": "LinkedIn",
+    "text": "Investing in stocks requires patience",
+    "likes": 896
+  },
+  {
+    "id": 565,
+    "username": "fitness_motivation",
+    "platform": "Instagram",
+    "text": "Saving money is important for financial stability",
+    "likes": 959
+  },
+  {
+    "id": 566,
+    "username": "tech_world",
+    "platform": "Instagram",
+    "text": "Finished a great mystery novel",
+    "likes": 1525
+  },
+  {
+    "id": 567,
+    "username": "book_reader",
+    "platform": "YouTube",
+    "text": "Practicing gratitude improves happiness",
+    "likes": 1190
+  },
+  {
+    "id": 568,
+    "username": "health_awareness",
+    "platform": "Instagram",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 1983
+  },
+  {
+    "id": 569,
+    "username": "daily_thoughts",
+    "platform": "Reddit",
+    "text": "Planting trees helps protect the environment",
+    "likes": 1994
+  },
+  {
+    "id": 570,
+    "username": "career_path",
+    "platform": "Facebook",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 1590
+  },
+  {
+    "id": 571,
+    "username": "fitness_daily",
+    "platform": "LinkedIn",
+    "text": "Balancing work and life is important",
+    "likes": 446
+  },
+  {
+    "id": 572,
+    "username": "sports_zone",
+    "platform": "Reddit",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 390
+  },
+  {
+    "id": 573,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Reading books improves knowledge",
+    "likes": 314
+  },
+  {
+    "id": 574,
+    "username": "tech_updates",
+    "platform": "LinkedIn",
+    "text": "Mental health awareness is very important",
+    "likes": 1272
+  },
+  {
+    "id": 575,
+    "username": "science_today",
+    "platform": "Twitter",
+    "text": "The election debate was intense",
+    "likes": 900
+  },
+  {
+    "id": 576,
+    "username": "career_path",
+    "platform": "Twitter",
+    "text": "Planning a road trip across the country",
+    "likes": 1855
+  },
+  {
+    "id": 577,
+    "username": "politics_watch",
+    "platform": "Reddit",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 877
+  },
+  {
+    "id": 578,
+    "username": "book_reader",
+    "platform": "Instagram",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 501
+  },
+  {
+    "id": 579,
+    "username": "gamer_zone",
+    "platform": "Facebook",
+    "text": "Marketing plays a huge role in success",
+    "likes": 1418
+  },
+  {
+    "id": 580,
+    "username": "fitness_daily",
+    "platform": "Twitter",
+    "text": "Morning routines boost productivity",
+    "likes": 520
+  },
+  {
+    "id": 581,
+    "username": "daily_thoughts",
+    "platform": "LinkedIn",
+    "text": "Transformers are powerful NLP models",
+    "likes": 331
+  },
+  {
+    "id": 582,
+    "username": "food_blog",
+    "platform": "Facebook",
+    "text": "Strategy games improve decision making",
+    "likes": 902
+  },
+  {
+    "id": 583,
+    "username": "sports_daily",
+    "platform": "LinkedIn",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 1162
+  },
+  {
+    "id": 584,
+    "username": "movie_buff",
+    "platform": "LinkedIn",
+    "text": "Played a new multiplayer game today",
+    "likes": 1825
+  },
+  {
+    "id": 585,
+    "username": "sports_zone",
+    "platform": "LinkedIn",
+    "text": "Cryptocurrency markets are very volatile",
+    "likes": 669
+  },
+  {
+    "id": 586,
+    "username": "tech_updates",
+    "platform": "YouTube",
+    "text": "Transformers are powerful NLP models",
+    "likes": 276
+  },
+  {
+    "id": 587,
+    "username": "book_reader",
+    "platform": "Reddit",
+    "text": "Trying to stay positive during tough times",
+    "likes": 793
+  },
+  {
+    "id": 588,
+    "username": "mental_support",
+    "platform": "LinkedIn",
+    "text": "Street food markets are always exciting",
+    "likes": 1057
+  },
+  {
+    "id": 589,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1061
+  },
+  {
+    "id": 590,
+    "username": "crypto_trader",
+    "platform": "LinkedIn",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1252
+  },
+  {
+    "id": 591,
+    "username": "startup_founder",
+    "platform": "Facebook",
+    "text": "Nature conservation should be prioritized",
+    "likes": 297
+  },
+  {
+    "id": 592,
+    "username": "tech_updates",
+    "platform": "Reddit",
+    "text": "Recycling reduces environmental waste",
+    "likes": 1509
+  },
+  {
+    "id": 593,
+    "username": "fitness_daily",
+    "platform": "LinkedIn",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 68
+  },
+  {
+    "id": 594,
+    "username": "sports_daily",
+    "platform": "YouTube",
+    "text": "Trying to stay positive during tough times",
+    "likes": 1921
+  },
+  {
+    "id": 595,
+    "username": "tech_world",
+    "platform": "Reddit",
+    "text": "Morning routines boost productivity",
+    "likes": 1757
+  },
+  {
+    "id": 596,
+    "username": "tech_world",
+    "platform": "YouTube",
+    "text": "Planting trees helps protect the environment",
+    "likes": 1810
+  },
+  {
+    "id": 597,
+    "username": "mind_care",
+    "platform": "Twitter",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 472
+  },
+  {
+    "id": 598,
+    "username": "career_path",
+    "platform": "Twitter",
+    "text": "Public policies shape society",
+    "likes": 242
+  },
+  {
+    "id": 599,
+    "username": "student_help",
+    "platform": "Instagram",
+    "text": "Studying hard for upcoming exams",
+    "likes": 371
+  },
+  {
+    "id": 600,
+    "username": "health_awareness",
+    "platform": "Instagram",
+    "text": "Morning routines boost productivity",
+    "likes": 666
+  },
+  {
+    "id": 601,
+    "username": "ai_learner",
+    "platform": "YouTube",
+    "text": "Strategy games improve decision making",
+    "likes": 1356
+  },
+  {
+    "id": 602,
+    "username": "college_diaries",
+    "platform": "Facebook",
+    "text": "Stock market trends are unpredictable",
+    "likes": 1286
+  },
+  {
+    "id": 603,
+    "username": "fitness_motivation",
+    "platform": "LinkedIn",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 805
+  },
+  {
+    "id": 604,
+    "username": "health_awareness",
+    "platform": "YouTube",
+    "text": "Regular health checkups are important",
+    "likes": 1553
+  },
+  {
+    "id": 605,
+    "username": "daily_thoughts",
+    "platform": "YouTube",
+    "text": "Cryptocurrency markets are very volatile",
+    "likes": 150
+  },
+  {
+    "id": 606,
+    "username": "sports_zone",
+    "platform": "YouTube",
+    "text": "Cloud computing is the future of software",
+    "likes": 170
+  },
+  {
+    "id": 607,
+    "username": "tech_world",
+    "platform": "Instagram",
+    "text": "Reading daily helps personal growth",
+    "likes": 181
+  },
+  {
+    "id": 608,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 871
+  },
+  {
+    "id": 609,
+    "username": "health_guru",
+    "platform": "Reddit",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 1866
+  },
+  {
+    "id": 610,
+    "username": "food_blog",
+    "platform": "Instagram",
+    "text": "Climate change awareness is increasing",
+    "likes": 1069
+  },
+  {
+    "id": 611,
+    "username": "sports_zone",
+    "platform": "YouTube",
+    "text": "Movie soundtracks can make scenes unforgettable",
+    "likes": 599
+  },
+  {
+    "id": 612,
+    "username": "college_diaries",
+    "platform": "Instagram",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 216
+  },
+  {
+    "id": 613,
+    "username": "career_path",
+    "platform": "Instagram",
+    "text": "Watching classic films on the weekend",
+    "likes": 1253
+  },
+  {
+    "id": 614,
+    "username": "coding_student",
+    "platform": "Twitter",
+    "text": "The football match yesterday was incredible",
+    "likes": 639
+  },
+  {
+    "id": 615,
+    "username": "tech_world",
+    "platform": "Facebook",
+    "text": "Beach vacations are relaxing",
+    "likes": 1338
+  },
+  {
+    "id": 616,
+    "username": "ai_learner",
+    "platform": "YouTube",
+    "text": "Beach vacations are relaxing",
+    "likes": 1461
+  },
+  {
+    "id": 617,
+    "username": "mental_support",
+    "platform": "Reddit",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 420
+  },
+  {
+    "id": 618,
+    "username": "sports_fan",
+    "platform": "Reddit",
+    "text": "Healthy habits build a better life",
+    "likes": 1848
+  },
+  {
+    "id": 619,
+    "username": "life_quotes",
+    "platform": "LinkedIn",
+    "text": "Nature conservation should be prioritized",
+    "likes": 1119
+  },
+  {
+    "id": 620,
+    "username": "sports_daily",
+    "platform": "LinkedIn",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 1230
+  },
+  {
+    "id": 621,
+    "username": "ai_learner",
+    "platform": "LinkedIn",
+    "text": "Eating healthy food helps prevent diseases",
+    "likes": 1810
+  },
+  {
+    "id": 622,
+    "username": "food_blog",
+    "platform": "Twitter",
+    "text": "Climate change research is important",
+    "likes": 940
+  },
+  {
+    "id": 623,
+    "username": "sports_fan",
+    "platform": "Instagram",
+    "text": "Nature conservation should be prioritized",
+    "likes": 454
+  },
+  {
+    "id": 624,
+    "username": "movie_buff",
+    "platform": "LinkedIn",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 496
+  },
+  {
+    "id": 625,
+    "username": "health_guru",
+    "platform": "YouTube",
+    "text": "Planning a road trip across the country",
+    "likes": 186
+  },
+  {
+    "id": 626,
+    "username": "travel_diaries",
+    "platform": "Twitter",
+    "text": "Gaming graphics are becoming very realistic",
+    "likes": 1581
+  },
+  {
+    "id": 627,
+    "username": "student_help",
+    "platform": "YouTube",
+    "text": "Healthy habits build a better life",
+    "likes": 1453
+  },
+  {
+    "id": 628,
+    "username": "startup_founder",
+    "platform": "Twitter",
+    "text": "Climate change awareness is increasing",
+    "likes": 690
+  },
+  {
+    "id": 629,
+    "username": "coding_student",
+    "platform": "Reddit",
+    "text": "Cryptocurrency markets are very volatile",
+    "likes": 689
+  },
+  {
+    "id": 630,
+    "username": "nature_lover",
+    "platform": "Instagram",
+    "text": "Trying to stay positive during tough times",
+    "likes": 1804
+  },
+  {
+    "id": 631,
+    "username": "sports_zone",
+    "platform": "LinkedIn",
+    "text": "Solo travel can be life changing",
+    "likes": 1534
+  },
+  {
+    "id": 632,
+    "username": "coding_student",
+    "platform": "Reddit",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 414
+  },
+  {
+    "id": 633,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "Saving money is important for financial stability",
+    "likes": 1814
+  },
+  {
+    "id": 634,
+    "username": "science_today",
+    "platform": "Twitter",
+    "text": "Building a company requires persistence",
+    "likes": 851
+  },
+  {
+    "id": 635,
+    "username": "finance_tips",
+    "platform": "Facebook",
+    "text": "Literature opens new perspectives",
+    "likes": 99
+  },
+  {
+    "id": 636,
+    "username": "food_blog",
+    "platform": "Facebook",
+    "text": "Stock market trends are unpredictable",
+    "likes": 1890
+  },
+  {
+    "id": 637,
+    "username": "food_blog",
+    "platform": "YouTube",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 1764
+  },
+  {
+    "id": 638,
+    "username": "nature_lover",
+    "platform": "Facebook",
+    "text": "Streaming gameplay online is popular now",
+    "likes": 742
+  },
+  {
+    "id": 639,
+    "username": "book_reader",
+    "platform": "Twitter",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 230
+  },
+  {
+    "id": 640,
+    "username": "movie_buff",
+    "platform": "Facebook",
+    "text": "Finished a great mystery novel",
+    "likes": 1407
+  },
+  {
+    "id": 641,
+    "username": "college_diaries",
+    "platform": "YouTube",
+    "text": "The latest superhero film broke box office records",
+    "likes": 844
+  },
+  {
+    "id": 642,
+    "username": "sports_daily",
+    "platform": "YouTube",
+    "text": "Time management is important for students",
+    "likes": 425
+  },
+  {
+    "id": 643,
+    "username": "career_path",
+    "platform": "Twitter",
+    "text": "The new sci-fi movie had amazing visuals",
+    "likes": 1579
+  },
+  {
+    "id": 644,
+    "username": "sports_zone",
+    "platform": "LinkedIn",
+    "text": "The election debate was intense",
+    "likes": 1830
+  },
+  {
+    "id": 645,
+    "username": "movie_buff",
+    "platform": "LinkedIn",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 598
+  },
+  {
+    "id": 646,
+    "username": "movie_buff",
+    "platform": "Reddit",
+    "text": "Learning new programming concepts today",
+    "likes": 1701
+  },
+  {
+    "id": 647,
+    "username": "book_reader",
+    "platform": "Twitter",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 322
+  },
+  {
+    "id": 648,
+    "username": "startup_founder",
+    "platform": "Instagram",
+    "text": "Morning routines boost productivity",
+    "likes": 1491
+  },
+  {
+    "id": 649,
+    "username": "startup_founder",
+    "platform": "Facebook",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 871
+  },
+  {
+    "id": 650,
+    "username": "movie_buff",
+    "platform": "Twitter",
+    "text": "The election debate was intense",
+    "likes": 606
+  },
+  {
+    "id": 651,
+    "username": "fitness_daily",
+    "platform": "Reddit",
+    "text": "Learning machine learning and deep learning",
+    "likes": 1536
+  },
+  {
+    "id": 652,
+    "username": "sports_daily",
+    "platform": "Reddit",
+    "text": "Gaming graphics are becoming very realistic",
+    "likes": 1435
+  },
+  {
+    "id": 653,
+    "username": "tech_world",
+    "platform": "Twitter",
+    "text": "Played a new multiplayer game today",
+    "likes": 247
+  },
+  {
+    "id": 654,
+    "username": "food_blog",
+    "platform": "Reddit",
+    "text": "Planning a road trip across the country",
+    "likes": 90
+  },
+  {
+    "id": 655,
+    "username": "crypto_trader",
+    "platform": "LinkedIn",
+    "text": "Reading daily helps personal growth",
+    "likes": 747
+  },
+  {
+    "id": 656,
+    "username": "travel_diaries",
+    "platform": "Reddit",
+    "text": "Regular health checkups are important",
+    "likes": 1931
+  },
+  {
+    "id": 657,
+    "username": "life_quotes",
+    "platform": "YouTube",
+    "text": "Gaming graphics are becoming very realistic",
+    "likes": 1416
+  },
+  {
+    "id": 658,
+    "username": "nature_lover",
+    "platform": "LinkedIn",
+    "text": "Gaming graphics are becoming very realistic",
+    "likes": 1114
+  },
+  {
+    "id": 659,
+    "username": "student_life",
+    "platform": "Facebook",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 389
+  },
+  {
+    "id": 660,
+    "username": "science_today",
+    "platform": "YouTube",
+    "text": "Gaming graphics are becoming very realistic",
+    "likes": 1056
+  },
+  {
+    "id": 661,
+    "username": "college_diaries",
+    "platform": "YouTube",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 500
+  },
+  {
+    "id": 662,
+    "username": "crypto_trader",
+    "platform": "Facebook",
+    "text": "Street food markets are always exciting",
+    "likes": 1972
+  },
+  {
+    "id": 663,
+    "username": "health_awareness",
+    "platform": "Instagram",
+    "text": "Exploring new cities and cultures",
+    "likes": 923
+  },
+  {
+    "id": 664,
+    "username": "career_path",
+    "platform": "YouTube",
+    "text": "Government policies affect the economy",
+    "likes": 408
+  },
+  {
+    "id": 665,
+    "username": "politics_watch",
+    "platform": "Instagram",
+    "text": "The new sci-fi movie had amazing visuals",
+    "likes": 1501
+  },
+  {
+    "id": 666,
+    "username": "movie_buff",
+    "platform": "YouTube",
+    "text": "Planting trees helps protect the environment",
+    "likes": 1476
+  },
+  {
+    "id": 667,
+    "username": "startup_founder",
+    "platform": "Facebook",
+    "text": "Voting is important in a democracy",
+    "likes": 642
+  },
+  {
+    "id": 668,
+    "username": "nature_lover",
+    "platform": "LinkedIn",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 937
+  },
+  {
+    "id": 669,
+    "username": "student_help",
+    "platform": "Instagram",
+    "text": "Tried a new healthy salad recipe",
+    "likes": 625
+  },
+  {
+    "id": 670,
+    "username": "travel_diaries",
+    "platform": "LinkedIn",
+    "text": "Public policies shape society",
+    "likes": 702
+  },
+  {
+    "id": 671,
+    "username": "daily_thoughts",
+    "platform": "LinkedIn",
+    "text": "Investing in stocks requires patience",
+    "likes": 929
+  },
+  {
+    "id": 672,
+    "username": "gamer_zone",
+    "platform": "Reddit",
+    "text": "Beach vacations are relaxing",
+    "likes": 1307
+  },
+  {
+    "id": 673,
+    "username": "nature_lover",
+    "platform": "Reddit",
+    "text": "Streaming gameplay online is popular now",
+    "likes": 822
+  },
+  {
+    "id": 674,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "Climate change awareness is increasing",
+    "likes": 950
+  },
+  {
+    "id": 675,
+    "username": "gamer_zone",
+    "platform": "Twitter",
+    "text": "Planning a road trip across the country",
+    "likes": 1077
+  },
+  {
+    "id": 676,
+    "username": "tech_world",
+    "platform": "LinkedIn",
+    "text": "Business strategies evolve quickly",
+    "likes": 1194
+  },
+  {
+    "id": 677,
+    "username": "science_today",
+    "platform": "Twitter",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 401
+  },
+  {
+    "id": 678,
+    "username": "gamer_zone",
+    "platform": "Twitter",
+    "text": "Government policies affect the economy",
+    "likes": 38
+  },
+  {
+    "id": 679,
+    "username": "mental_support",
+    "platform": "LinkedIn",
+    "text": "Business strategies evolve quickly",
+    "likes": 979
+  },
+  {
+    "id": 680,
+    "username": "science_today",
+    "platform": "Twitter",
+    "text": "Transformers are powerful NLP models",
+    "likes": 1980
+  },
+  {
+    "id": 681,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Cooking pasta at home today",
+    "likes": 1546
+  },
+  {
+    "id": 682,
+    "username": "health_guru",
+    "platform": "Facebook",
+    "text": "Trying to stay positive during tough times",
+    "likes": 1128
+  },
+  {
+    "id": 683,
+    "username": "coding_student",
+    "platform": "Instagram",
+    "text": "The new sci-fi movie had amazing visuals",
+    "likes": 1124
+  },
+  {
+    "id": 684,
+    "username": "daily_thoughts",
+    "platform": "YouTube",
+    "text": "Planting trees helps protect the environment",
+    "likes": 825
+  },
+  {
+    "id": 685,
+    "username": "tech_updates",
+    "platform": "Reddit",
+    "text": "Nature conservation should be prioritized",
+    "likes": 1922
+  },
+  {
+    "id": 686,
+    "username": "politics_watch",
+    "platform": "Instagram",
+    "text": "Tried a new healthy salad recipe",
+    "likes": 1886
+  },
+  {
+    "id": 687,
+    "username": "food_blog",
+    "platform": "Twitter",
+    "text": "Learning new programming concepts today",
+    "likes": 1423
+  },
+  {
+    "id": 688,
+    "username": "student_help",
+    "platform": "YouTube",
+    "text": "Climate change research is important",
+    "likes": 1783
+  },
+  {
+    "id": 689,
+    "username": "politics_watch",
+    "platform": "Twitter",
+    "text": "The election debate was intense",
+    "likes": 1157
+  },
+  {
+    "id": 690,
+    "username": "health_awareness",
+    "platform": "Reddit",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 1507
+  },
+  {
+    "id": 691,
+    "username": "sports_zone",
+    "platform": "YouTube",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 111
+  },
+  {
+    "id": 692,
+    "username": "health_guru",
+    "platform": "Twitter",
+    "text": "Literature opens new perspectives",
+    "likes": 1403
+  },
+  {
+    "id": 693,
+    "username": "sports_daily",
+    "platform": "Facebook",
+    "text": "Reading books improves knowledge",
+    "likes": 590
+  },
+  {
+    "id": 694,
+    "username": "college_diaries",
+    "platform": "LinkedIn",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 424
+  },
+  {
+    "id": 695,
+    "username": "coding_student",
+    "platform": "Facebook",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 687
+  },
+  {
+    "id": 696,
+    "username": "daily_thoughts",
+    "platform": "LinkedIn",
+    "text": "Played a new multiplayer game today",
+    "likes": 82
+  },
+  {
+    "id": 697,
+    "username": "fitness_motivation",
+    "platform": "Twitter",
+    "text": "Tried a new healthy salad recipe",
+    "likes": 1073
+  },
+  {
+    "id": 698,
+    "username": "science_today",
+    "platform": "Instagram",
+    "text": "Cryptocurrency markets are very volatile",
+    "likes": 252
+  },
+  {
+    "id": 699,
+    "username": "student_help",
+    "platform": "YouTube",
+    "text": "Tried a new healthy salad recipe",
+    "likes": 830
+  },
+  {
+    "id": 700,
+    "username": "sports_zone",
+    "platform": "YouTube",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 668
+  },
+  {
+    "id": 701,
+    "username": "tech_world",
+    "platform": "YouTube",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 1603
+  },
+  {
+    "id": 702,
+    "username": "politics_watch",
+    "platform": "Reddit",
+    "text": "Reading books improves knowledge",
+    "likes": 1342
+  },
+  {
+    "id": 703,
+    "username": "ai_learner",
+    "platform": "Reddit",
+    "text": "The football match yesterday was incredible",
+    "likes": 687
+  },
+  {
+    "id": 704,
+    "username": "movie_buff",
+    "platform": "Instagram",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 1872
+  },
+  {
+    "id": 705,
+    "username": "college_diaries",
+    "platform": "Reddit",
+    "text": "Nature conservation should be prioritized",
+    "likes": 1364
+  },
+  {
+    "id": 706,
+    "username": "gamer_zone",
+    "platform": "YouTube",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 21
+  },
+  {
+    "id": 707,
+    "username": "politics_watch",
+    "platform": "Twitter",
+    "text": "Investing in stocks requires patience",
+    "likes": 1687
+  },
+  {
+    "id": 708,
+    "username": "sports_fan",
+    "platform": "Twitter",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 538
+  },
+  {
+    "id": 709,
+    "username": "food_blog",
+    "platform": "Instagram",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 409
+  },
+  {
+    "id": 710,
+    "username": "sports_fan",
+    "platform": "Reddit",
+    "text": "Exploring different cuisines is fun",
+    "likes": 1500
+  },
+  {
+    "id": 711,
+    "username": "movie_buff",
+    "platform": "Instagram",
+    "text": "Regular health checkups are important",
+    "likes": 1949
+  },
+  {
+    "id": 712,
+    "username": "book_reader",
+    "platform": "LinkedIn",
+    "text": "The football match yesterday was incredible",
+    "likes": 1481
+  },
+  {
+    "id": 713,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 1962
+  },
+  {
+    "id": 714,
+    "username": "sports_daily",
+    "platform": "Facebook",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 101
+  },
+  {
+    "id": 715,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Reading daily helps personal growth",
+    "likes": 1060
+  },
+  {
+    "id": 716,
+    "username": "student_life",
+    "platform": "Twitter",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1293
+  },
+  {
+    "id": 717,
+    "username": "ai_learner",
+    "platform": "YouTube",
+    "text": "Watching classic films on the weekend",
+    "likes": 1359
+  },
+  {
+    "id": 718,
+    "username": "finance_tips",
+    "platform": "Facebook",
+    "text": "The football match yesterday was incredible",
+    "likes": 151
+  },
+  {
+    "id": 719,
+    "username": "startup_founder",
+    "platform": "Reddit",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 96
+  },
+  {
+    "id": 720,
+    "username": "movie_buff",
+    "platform": "Instagram",
+    "text": "Watching classic films on the weekend",
+    "likes": 1490
+  },
+  {
+    "id": 721,
+    "username": "tech_world",
+    "platform": "Reddit",
+    "text": "Investing in stocks requires patience",
+    "likes": 928
+  },
+  {
+    "id": 722,
+    "username": "life_quotes",
+    "platform": "Reddit",
+    "text": "The new sci-fi movie had amazing visuals",
+    "likes": 1874
+  },
+  {
+    "id": 723,
+    "username": "health_guru",
+    "platform": "Reddit",
+    "text": "Tried a new healthy salad recipe",
+    "likes": 517
+  },
+  {
+    "id": 724,
+    "username": "health_awareness",
+    "platform": "Instagram",
+    "text": "Solo travel can be life changing",
+    "likes": 212
+  },
+  {
+    "id": 725,
+    "username": "finance_tips",
+    "platform": "Instagram",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 401
+  },
+  {
+    "id": 726,
+    "username": "mental_support",
+    "platform": "Twitter",
+    "text": "Tried a new healthy salad recipe",
+    "likes": 534
+  },
+  {
+    "id": 727,
+    "username": "daily_thoughts",
+    "platform": "YouTube",
+    "text": "Solo travel can be life changing",
+    "likes": 528
+  },
+  {
+    "id": 728,
+    "username": "startup_founder",
+    "platform": "LinkedIn",
+    "text": "Meditation helps reduce anxiety and depression",
+    "likes": 544
+  },
+  {
+    "id": 729,
+    "username": "crypto_trader",
+    "platform": "Twitter",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 189
+  },
+  {
+    "id": 730,
+    "username": "tech_world",
+    "platform": "Instagram",
+    "text": "Book recommendations are always welcome",
+    "likes": 1706
+  },
+  {
+    "id": 731,
+    "username": "mind_care",
+    "platform": "YouTube",
+    "text": "Eating healthy food helps prevent diseases",
+    "likes": 778
+  },
+  {
+    "id": 732,
+    "username": "student_life",
+    "platform": "YouTube",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 324
+  },
+  {
+    "id": 733,
+    "username": "health_awareness",
+    "platform": "Reddit",
+    "text": "Building web applications using Flask",
+    "likes": 1439
+  },
+  {
+    "id": 734,
+    "username": "tech_world",
+    "platform": "LinkedIn",
+    "text": "Studying hard for upcoming exams",
+    "likes": 1805
+  },
+  {
+    "id": 735,
+    "username": "politics_watch",
+    "platform": "Instagram",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 1642
+  },
+  {
+    "id": 736,
+    "username": "college_diaries",
+    "platform": "Instagram",
+    "text": "Biotechnology is transforming medicine",
+    "likes": 277
+  },
+  {
+    "id": 737,
+    "username": "movie_buff",
+    "platform": "Facebook",
+    "text": "Morning running improves stamina",
+    "likes": 1842
+  },
+  {
+    "id": 738,
+    "username": "college_diaries",
+    "platform": "Reddit",
+    "text": "Trying to stay positive during tough times",
+    "likes": 614
+  },
+  {
+    "id": 739,
+    "username": "college_diaries",
+    "platform": "LinkedIn",
+    "text": "The election debate was intense",
+    "likes": 699
+  },
+  {
+    "id": 740,
+    "username": "sports_zone",
+    "platform": "Reddit",
+    "text": "Final year project development in progress",
+    "likes": 130
+  },
+  {
+    "id": 741,
+    "username": "sports_fan",
+    "platform": "LinkedIn",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 165
+  },
+  {
+    "id": 742,
+    "username": "student_help",
+    "platform": "Reddit",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 1842
+  },
+  {
+    "id": 743,
+    "username": "career_path",
+    "platform": "YouTube",
+    "text": "Protecting wildlife is important",
+    "likes": 279
+  },
+  {
+    "id": 744,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Tried a new healthy salad recipe",
+    "likes": 1906
+  },
+  {
+    "id": 745,
+    "username": "life_quotes",
+    "platform": "YouTube",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 735
+  },
+  {
+    "id": 746,
+    "username": "finance_tips",
+    "platform": "Reddit",
+    "text": "The new sci-fi movie had amazing visuals",
+    "likes": 249
+  },
+  {
+    "id": 747,
+    "username": "fitness_motivation",
+    "platform": "LinkedIn",
+    "text": "Building web applications using Flask",
+    "likes": 15
+  },
+  {
+    "id": 748,
+    "username": "ai_learner",
+    "platform": "LinkedIn",
+    "text": "Trying to stay positive during tough times",
+    "likes": 625
+  },
+  {
+    "id": 749,
+    "username": "gamer_zone",
+    "platform": "YouTube",
+    "text": "Solo travel can be life changing",
+    "likes": 851
+  },
+  {
+    "id": 750,
+    "username": "sports_fan",
+    "platform": "Facebook",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 425
+  },
+  {
+    "id": 751,
+    "username": "health_awareness",
+    "platform": "YouTube",
+    "text": "Streaming gameplay online is popular now",
+    "likes": 1465
+  },
+  {
+    "id": 752,
+    "username": "health_awareness",
+    "platform": "Facebook",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 419
+  },
+  {
+    "id": 753,
+    "username": "ai_learner",
+    "platform": "YouTube",
+    "text": "Investing in stocks requires patience",
+    "likes": 1226
+  },
+  {
+    "id": 754,
+    "username": "sports_zone",
+    "platform": "Reddit",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 1475
+  },
+  {
+    "id": 755,
+    "username": "travel_diaries",
+    "platform": "LinkedIn",
+    "text": "Transformers are powerful NLP models",
+    "likes": 797
+  },
+  {
+    "id": 756,
+    "username": "daily_thoughts",
+    "platform": "Instagram",
+    "text": "Climate change research is important",
+    "likes": 811
+  },
+  {
+    "id": 757,
+    "username": "sports_daily",
+    "platform": "Twitter",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 551
+  },
+  {
+    "id": 758,
+    "username": "movie_buff",
+    "platform": "Instagram",
+    "text": "Climate change awareness is increasing",
+    "likes": 1473
+  },
+  {
+    "id": 759,
+    "username": "politics_watch",
+    "platform": "YouTube",
+    "text": "Building a company requires persistence",
+    "likes": 1655
+  },
+  {
+    "id": 760,
+    "username": "health_guru",
+    "platform": "Facebook",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 311
+  },
+  {
+    "id": 761,
+    "username": "coding_student",
+    "platform": "Instagram",
+    "text": "Final year project development in progress",
+    "likes": 152
+  },
+  {
+    "id": 762,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Learning new programming concepts today",
+    "likes": 651
+  },
+  {
+    "id": 763,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Watching classic films on the weekend",
+    "likes": 1455
+  },
+  {
+    "id": 764,
+    "username": "sports_daily",
+    "platform": "Twitter",
+    "text": "Reading books improves knowledge",
+    "likes": 1322
+  },
+  {
+    "id": 765,
+    "username": "movie_buff",
+    "platform": "Facebook",
+    "text": "Literature opens new perspectives",
+    "likes": 1019
+  },
+  {
+    "id": 766,
+    "username": "crypto_trader",
+    "platform": "YouTube",
+    "text": "Reading daily helps personal growth",
+    "likes": 1421
+  },
+  {
+    "id": 767,
+    "username": "book_reader",
+    "platform": "Reddit",
+    "text": "Building a company requires persistence",
+    "likes": 944
+  },
+  {
+    "id": 768,
+    "username": "science_today",
+    "platform": "Twitter",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 1907
+  },
+  {
+    "id": 769,
+    "username": "tech_world",
+    "platform": "YouTube",
+    "text": "Learning machine learning and deep learning",
+    "likes": 547
+  },
+  {
+    "id": 770,
+    "username": "student_help",
+    "platform": "Instagram",
+    "text": "Morning routines boost productivity",
+    "likes": 208
+  },
+  {
+    "id": 771,
+    "username": "health_guru",
+    "platform": "YouTube",
+    "text": "Stock market trends are unpredictable",
+    "likes": 886
+  },
+  {
+    "id": 772,
+    "username": "fitness_daily",
+    "platform": "Twitter",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 598
+  },
+  {
+    "id": 773,
+    "username": "mental_support",
+    "platform": "LinkedIn",
+    "text": "Protecting wildlife is important",
+    "likes": 64
+  },
+  {
+    "id": 774,
+    "username": "gamer_zone",
+    "platform": "Instagram",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 107
+  },
+  {
+    "id": 775,
+    "username": "career_path",
+    "platform": "Instagram",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1000
+  },
+  {
+    "id": 776,
+    "username": "career_path",
+    "platform": "LinkedIn",
+    "text": "Regular health checkups are important",
+    "likes": 949
+  },
+  {
+    "id": 777,
+    "username": "startup_founder",
+    "platform": "Twitter",
+    "text": "Exploring different cuisines is fun",
+    "likes": 201
+  },
+  {
+    "id": 778,
+    "username": "startup_founder",
+    "platform": "Twitter",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 75
+  },
+  {
+    "id": 779,
+    "username": "daily_thoughts",
+    "platform": "Facebook",
+    "text": "Solo travel can be life changing",
+    "likes": 767
+  },
+  {
+    "id": 780,
+    "username": "ai_learner",
+    "platform": "YouTube",
+    "text": "Transformers are powerful NLP models",
+    "likes": 58
+  },
+  {
+    "id": 781,
+    "username": "movie_buff",
+    "platform": "LinkedIn",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 1295
+  },
+  {
+    "id": 782,
+    "username": "student_life",
+    "platform": "Facebook",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 1558
+  },
+  {
+    "id": 783,
+    "username": "student_help",
+    "platform": "Instagram",
+    "text": "Cricket world cup games are always exciting",
+    "likes": 1660
+  },
+  {
+    "id": 784,
+    "username": "science_today",
+    "platform": "LinkedIn",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 1829
+  },
+  {
+    "id": 785,
+    "username": "crypto_trader",
+    "platform": "Instagram",
+    "text": "Learning machine learning and deep learning",
+    "likes": 151
+  },
+  {
+    "id": 786,
+    "username": "ai_learner",
+    "platform": "Reddit",
+    "text": "Nature conservation should be prioritized",
+    "likes": 258
+  },
+  {
+    "id": 787,
+    "username": "ai_learner",
+    "platform": "LinkedIn",
+    "text": "Business strategies evolve quickly",
+    "likes": 1555
+  },
+  {
+    "id": 788,
+    "username": "nature_lover",
+    "platform": "YouTube",
+    "text": "Cricket world cup games are always exciting",
+    "likes": 207
+  },
+  {
+    "id": 789,
+    "username": "health_guru",
+    "platform": "Instagram",
+    "text": "Trying to stay positive during tough times",
+    "likes": 418
+  },
+  {
+    "id": 790,
+    "username": "ai_learner",
+    "platform": "LinkedIn",
+    "text": "Startups are disrupting traditional industries",
+    "likes": 629
+  },
+  {
+    "id": 791,
+    "username": "gamer_zone",
+    "platform": "Instagram",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 37
+  },
+  {
+    "id": 792,
+    "username": "fitness_motivation",
+    "platform": "YouTube",
+    "text": "Exploring different cuisines is fun",
+    "likes": 916
+  },
+  {
+    "id": 793,
+    "username": "health_guru",
+    "platform": "Reddit",
+    "text": "Investing in stocks requires patience",
+    "likes": 1973
+  },
+  {
+    "id": 794,
+    "username": "startup_founder",
+    "platform": "Reddit",
+    "text": "Beach vacations are relaxing",
+    "likes": 299
+  },
+  {
+    "id": 795,
+    "username": "student_life",
+    "platform": "Facebook",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 412
+  },
+  {
+    "id": 796,
+    "username": "food_blog",
+    "platform": "Instagram",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 192
+  },
+  {
+    "id": 797,
+    "username": "movie_buff",
+    "platform": "LinkedIn",
+    "text": "Reading books improves knowledge",
+    "likes": 872
+  },
+  {
+    "id": 798,
+    "username": "tech_updates",
+    "platform": "YouTube",
+    "text": "Cryptocurrency markets are very volatile",
+    "likes": 278
+  },
+  {
+    "id": 799,
+    "username": "coding_student",
+    "platform": "Reddit",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 1289
+  },
+  {
+    "id": 800,
+    "username": "crypto_trader",
+    "platform": "LinkedIn",
+    "text": "Time management is important for students",
+    "likes": 1325
+  },
+  {
+    "id": 801,
+    "username": "mind_care",
+    "platform": "Twitter",
+    "text": "Cloud computing is the future of software",
+    "likes": 1928
+  },
+  {
+    "id": 802,
+    "username": "sports_daily",
+    "platform": "Twitter",
+    "text": "Meditation helps reduce anxiety and depression",
+    "likes": 1647
+  },
+  {
+    "id": 803,
+    "username": "book_reader",
+    "platform": "Instagram",
+    "text": "Climate change research is important",
+    "likes": 1535
+  },
+  {
+    "id": 804,
+    "username": "coding_student",
+    "platform": "LinkedIn",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 622
+  },
+  {
+    "id": 805,
+    "username": "sports_zone",
+    "platform": "Reddit",
+    "text": "Learning machine learning and deep learning",
+    "likes": 1606
+  },
+  {
+    "id": 806,
+    "username": "life_quotes",
+    "platform": "Twitter",
+    "text": "Minimalist lifestyle reduces stress",
+    "likes": 1893
+  },
+  {
+    "id": 807,
+    "username": "fitness_daily",
+    "platform": "Facebook",
+    "text": "Literature opens new perspectives",
+    "likes": 608
+  },
+  {
+    "id": 808,
+    "username": "daily_thoughts",
+    "platform": "LinkedIn",
+    "text": "Climate change research is important",
+    "likes": 1146
+  },
+  {
+    "id": 809,
+    "username": "health_guru",
+    "platform": "Twitter",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1538
+  },
+  {
+    "id": 810,
+    "username": "health_awareness",
+    "platform": "Twitter",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 1458
+  },
+  {
+    "id": 811,
+    "username": "finance_tips",
+    "platform": "Facebook",
+    "text": "Time management is important for students",
+    "likes": 1424
+  },
+  {
+    "id": 812,
+    "username": "sports_daily",
+    "platform": "Facebook",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 1162
+  },
+  {
+    "id": 813,
+    "username": "health_awareness",
+    "platform": "YouTube",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 1402
+  },
+  {
+    "id": 814,
+    "username": "life_quotes",
+    "platform": "YouTube",
+    "text": "Studying hard for upcoming exams",
+    "likes": 785
+  },
+  {
+    "id": 815,
+    "username": "science_today",
+    "platform": "Reddit",
+    "text": "Strategy games improve decision making",
+    "likes": 1986
+  },
+  {
+    "id": 816,
+    "username": "politics_watch",
+    "platform": "Facebook",
+    "text": "Time management is important for students",
+    "likes": 347
+  },
+  {
+    "id": 817,
+    "username": "student_help",
+    "platform": "Twitter",
+    "text": "Beach vacations are relaxing",
+    "likes": 1500
+  },
+  {
+    "id": 818,
+    "username": "tech_world",
+    "platform": "Instagram",
+    "text": "Planning a road trip across the country",
+    "likes": 1612
+  },
+  {
+    "id": 819,
+    "username": "student_life",
+    "platform": "LinkedIn",
+    "text": "Climate change awareness is increasing",
+    "likes": 1200
+  },
+  {
+    "id": 820,
+    "username": "tech_updates",
+    "platform": "Facebook",
+    "text": "Reading daily helps personal growth",
+    "likes": 16
+  },
+  {
+    "id": 821,
+    "username": "coding_student",
+    "platform": "Facebook",
+    "text": "Planting trees helps protect the environment",
+    "likes": 1318
+  },
+  {
+    "id": 822,
+    "username": "politics_watch",
+    "platform": "Reddit",
+    "text": "Practicing gratitude improves happiness",
+    "likes": 1451
+  },
+  {
+    "id": 823,
+    "username": "food_blog",
+    "platform": "Instagram",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 1030
+  },
+  {
+    "id": 824,
+    "username": "mind_care",
+    "platform": "Twitter",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 868
+  },
+  {
+    "id": 825,
+    "username": "mind_care",
+    "platform": "Twitter",
+    "text": "Practicing gratitude improves happiness",
+    "likes": 631
+  },
+  {
+    "id": 826,
+    "username": "career_path",
+    "platform": "Twitter",
+    "text": "Political discussions are trending online",
+    "likes": 935
+  },
+  {
+    "id": 827,
+    "username": "politics_watch",
+    "platform": "YouTube",
+    "text": "Protecting wildlife is important",
+    "likes": 1176
+  },
+  {
+    "id": 828,
+    "username": "movie_buff",
+    "platform": "LinkedIn",
+    "text": "Government policies affect the economy",
+    "likes": 1404
+  },
+  {
+    "id": 829,
+    "username": "coding_student",
+    "platform": "Facebook",
+    "text": "The latest superhero film broke box office records",
+    "likes": 1926
+  },
+  {
+    "id": 830,
+    "username": "movie_buff",
+    "platform": "Reddit",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 1617
+  },
+  {
+    "id": 831,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 1251
+  },
+  {
+    "id": 832,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "Public policies shape society",
+    "likes": 1738
+  },
+  {
+    "id": 833,
+    "username": "sports_fan",
+    "platform": "YouTube",
+    "text": "Meditation helps reduce anxiety and depression",
+    "likes": 621
+  },
+  {
+    "id": 834,
+    "username": "ai_learner",
+    "platform": "Reddit",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 598
+  },
+  {
+    "id": 835,
+    "username": "crypto_trader",
+    "platform": "LinkedIn",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 282
+  },
+  {
+    "id": 836,
+    "username": "politics_watch",
+    "platform": "YouTube",
+    "text": "Public policies shape society",
+    "likes": 695
+  },
+  {
+    "id": 837,
+    "username": "tech_updates",
+    "platform": "LinkedIn",
+    "text": "Reading books improves knowledge",
+    "likes": 336
+  },
+  {
+    "id": 838,
+    "username": "finance_tips",
+    "platform": "YouTube",
+    "text": "Trying to stay positive during tough times",
+    "likes": 42
+  },
+  {
+    "id": 839,
+    "username": "gamer_zone",
+    "platform": "Instagram",
+    "text": "Protecting wildlife is important",
+    "likes": 470
+  },
+  {
+    "id": 840,
+    "username": "sports_zone",
+    "platform": "Facebook",
+    "text": "Saving money is important for financial stability",
+    "likes": 1122
+  },
+  {
+    "id": 841,
+    "username": "food_blog",
+    "platform": "Instagram",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 1733
+  },
+  {
+    "id": 842,
+    "username": "tech_updates",
+    "platform": "Facebook",
+    "text": "Beach vacations are relaxing",
+    "likes": 459
+  },
+  {
+    "id": 843,
+    "username": "daily_thoughts",
+    "platform": "Reddit",
+    "text": "Regular health checkups are important",
+    "likes": 615
+  },
+  {
+    "id": 844,
+    "username": "politics_watch",
+    "platform": "YouTube",
+    "text": "The football match yesterday was incredible",
+    "likes": 465
+  },
+  {
+    "id": 845,
+    "username": "coding_student",
+    "platform": "YouTube",
+    "text": "Street food markets are always exciting",
+    "likes": 1913
+  },
+  {
+    "id": 846,
+    "username": "mental_support",
+    "platform": "Facebook",
+    "text": "Learning about personal finance and budgeting",
+    "likes": 755
+  },
+  {
+    "id": 847,
+    "username": "health_guru",
+    "platform": "YouTube",
+    "text": "Meditation helps reduce anxiety and depression",
+    "likes": 1578
+  },
+  {
+    "id": 848,
+    "username": "science_today",
+    "platform": "Facebook",
+    "text": "Studying hard for upcoming exams",
+    "likes": 1597
+  },
+  {
+    "id": 849,
+    "username": "fitness_motivation",
+    "platform": "LinkedIn",
+    "text": "Physics explains many natural phenomena",
+    "likes": 163
+  },
+  {
+    "id": 850,
+    "username": "mental_support",
+    "platform": "Instagram",
+    "text": "Cryptocurrency markets are very volatile",
+    "likes": 860
+  },
+  {
+    "id": 851,
+    "username": "coding_student",
+    "platform": "LinkedIn",
+    "text": "Book recommendations are always welcome",
+    "likes": 457
+  },
+  {
+    "id": 852,
+    "username": "travel_diaries",
+    "platform": "YouTube",
+    "text": "Political discussions are trending online",
+    "likes": 341
+  },
+  {
+    "id": 853,
+    "username": "travel_diaries",
+    "platform": "Twitter",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 829
+  },
+  {
+    "id": 854,
+    "username": "startup_founder",
+    "platform": "Instagram",
+    "text": "Saving money is important for financial stability",
+    "likes": 1961
+  },
+  {
+    "id": 855,
+    "username": "startup_founder",
+    "platform": "Instagram",
+    "text": "Morning running improves stamina",
+    "likes": 1509
+  },
+  {
+    "id": 856,
+    "username": "college_diaries",
+    "platform": "LinkedIn",
+    "text": "Final year project development in progress",
+    "likes": 1021
+  },
+  {
+    "id": 857,
+    "username": "daily_thoughts",
+    "platform": "YouTube",
+    "text": "Studying hard for upcoming exams",
+    "likes": 1856
+  },
+  {
+    "id": 858,
+    "username": "mental_support",
+    "platform": "Instagram",
+    "text": "Strategy games improve decision making",
+    "likes": 1126
+  },
+  {
+    "id": 859,
+    "username": "politics_watch",
+    "platform": "Instagram",
+    "text": "Cooking pasta at home today",
+    "likes": 1399
+  },
+  {
+    "id": 860,
+    "username": "tech_world",
+    "platform": "Instagram",
+    "text": "Voting is important in a democracy",
+    "likes": 1663
+  },
+  {
+    "id": 861,
+    "username": "coding_student",
+    "platform": "Instagram",
+    "text": "Public policies shape society",
+    "likes": 1744
+  },
+  {
+    "id": 862,
+    "username": "crypto_trader",
+    "platform": "Reddit",
+    "text": "Reading books improves knowledge",
+    "likes": 1151
+  },
+  {
+    "id": 863,
+    "username": "tech_world",
+    "platform": "Twitter",
+    "text": "Book recommendations are always welcome",
+    "likes": 267
+  },
+  {
+    "id": 864,
+    "username": "nature_lover",
+    "platform": "Facebook",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 1274
+  },
+  {
+    "id": 865,
+    "username": "gamer_zone",
+    "platform": "Reddit",
+    "text": "The election debate was intense",
+    "likes": 1031
+  },
+  {
+    "id": 866,
+    "username": "life_quotes",
+    "platform": "Twitter",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 782
+  },
+  {
+    "id": 867,
+    "username": "mental_support",
+    "platform": "Instagram",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 43
+  },
+  {
+    "id": 868,
+    "username": "startup_founder",
+    "platform": "Facebook",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 552
+  },
+  {
+    "id": 869,
+    "username": "book_reader",
+    "platform": "Facebook",
+    "text": "Voting is important in a democracy",
+    "likes": 32
+  },
+  {
+    "id": 870,
+    "username": "food_blog",
+    "platform": "YouTube",
+    "text": "Healthy habits build a better life",
+    "likes": 793
+  },
+  {
+    "id": 871,
+    "username": "sports_zone",
+    "platform": "Twitter",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 361
+  },
+  {
+    "id": 872,
+    "username": "nature_lover",
+    "platform": "Reddit",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 1585
+  },
+  {
+    "id": 873,
+    "username": "fitness_motivation",
+    "platform": "Reddit",
+    "text": "Strategy games improve decision making",
+    "likes": 368
+  },
+  {
+    "id": 874,
+    "username": "nature_lover",
+    "platform": "Reddit",
+    "text": "Eating healthy food helps prevent diseases",
+    "likes": 1515
+  },
+  {
+    "id": 875,
+    "username": "mind_care",
+    "platform": "LinkedIn",
+    "text": "Studying hard for upcoming exams",
+    "likes": 67
+  },
+  {
+    "id": 876,
+    "username": "fitness_motivation",
+    "platform": "Twitter",
+    "text": "Learning machine learning and deep learning",
+    "likes": 519
+  },
+  {
+    "id": 877,
+    "username": "health_awareness",
+    "platform": "Instagram",
+    "text": "Gaming graphics are becoming very realistic",
+    "likes": 11
+  },
+  {
+    "id": 878,
+    "username": "science_today",
+    "platform": "Facebook",
+    "text": "Exploring new cities and cultures",
+    "likes": 1254
+  },
+  {
+    "id": 879,
+    "username": "nature_lover",
+    "platform": "LinkedIn",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1859
+  },
+  {
+    "id": 880,
+    "username": "science_today",
+    "platform": "YouTube",
+    "text": "Finished a great mystery novel",
+    "likes": 1450
+  },
+  {
+    "id": 881,
+    "username": "finance_tips",
+    "platform": "Twitter",
+    "text": "Climate change awareness is increasing",
+    "likes": 181
+  },
+  {
+    "id": 882,
+    "username": "startup_founder",
+    "platform": "YouTube",
+    "text": "Beach vacations are relaxing",
+    "likes": 1419
+  },
+  {
+    "id": 883,
+    "username": "travel_diaries",
+    "platform": "LinkedIn",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 113
+  },
+  {
+    "id": 884,
+    "username": "finance_tips",
+    "platform": "Twitter",
+    "text": "Building a company requires persistence",
+    "likes": 1675
+  },
+  {
+    "id": 885,
+    "username": "politics_watch",
+    "platform": "Reddit",
+    "text": "Meditation helps reduce anxiety and depression",
+    "likes": 431
+  },
+  {
+    "id": 886,
+    "username": "coding_student",
+    "platform": "Instagram",
+    "text": "Regular health checkups are important",
+    "likes": 454
+  },
+  {
+    "id": 887,
+    "username": "college_diaries",
+    "platform": "Instagram",
+    "text": "Voting is important in a democracy",
+    "likes": 1734
+  },
+  {
+    "id": 888,
+    "username": "student_help",
+    "platform": "LinkedIn",
+    "text": "Watching classic films on the weekend",
+    "likes": 351
+  },
+  {
+    "id": 889,
+    "username": "fitness_motivation",
+    "platform": "LinkedIn",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 403
+  },
+  {
+    "id": 890,
+    "username": "sports_daily",
+    "platform": "Twitter",
+    "text": "Planting trees helps protect the environment",
+    "likes": 1771
+  },
+  {
+    "id": 891,
+    "username": "crypto_trader",
+    "platform": "YouTube",
+    "text": "Morning running improves stamina",
+    "likes": 324
+  },
+  {
+    "id": 892,
+    "username": "coding_student",
+    "platform": "Instagram",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 947
+  },
+  {
+    "id": 893,
+    "username": "crypto_trader",
+    "platform": "Twitter",
+    "text": "Morning routines boost productivity",
+    "likes": 919
+  },
+  {
+    "id": 894,
+    "username": "coding_student",
+    "platform": "Facebook",
+    "text": "Watching classic films on the weekend",
+    "likes": 261
+  },
+  {
+    "id": 895,
+    "username": "food_blog",
+    "platform": "LinkedIn",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 907
+  },
+  {
+    "id": 896,
+    "username": "coding_student",
+    "platform": "Twitter",
+    "text": "Building a company requires persistence",
+    "likes": 1390
+  },
+  {
+    "id": 897,
+    "username": "student_life",
+    "platform": "Instagram",
+    "text": "Political discussions are trending online",
+    "likes": 1068
+  },
+  {
+    "id": 898,
+    "username": "fitness_daily",
+    "platform": "LinkedIn",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 1240
+  },
+  {
+    "id": 899,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "Building a company requires persistence",
+    "likes": 351
+  },
+  {
+    "id": 900,
+    "username": "coding_student",
+    "platform": "Reddit",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1217
+  },
+  {
+    "id": 901,
+    "username": "book_reader",
+    "platform": "Facebook",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 1681
+  },
+  {
+    "id": 902,
+    "username": "life_quotes",
+    "platform": "Facebook",
+    "text": "Time management is important for students",
+    "likes": 616
+  },
+  {
+    "id": 903,
+    "username": "travel_diaries",
+    "platform": "Instagram",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 1497
+  },
+  {
+    "id": 904,
+    "username": "fitness_daily",
+    "platform": "Reddit",
+    "text": "Gym workouts help maintain fitness",
+    "likes": 1523
+  },
+  {
+    "id": 905,
+    "username": "sports_daily",
+    "platform": "LinkedIn",
+    "text": "Public policies shape society",
+    "likes": 1617
+  },
+  {
+    "id": 906,
+    "username": "coding_student",
+    "platform": "Reddit",
+    "text": "Exploring new cities and cultures",
+    "likes": 1681
+  },
+  {
+    "id": 907,
+    "username": "food_blog",
+    "platform": "Facebook",
+    "text": "Streaming gameplay online is popular now",
+    "likes": 1733
+  },
+  {
+    "id": 908,
+    "username": "college_diaries",
+    "platform": "YouTube",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 1142
+  },
+  {
+    "id": 909,
+    "username": "tech_updates",
+    "platform": "YouTube",
+    "text": "Exploring different cuisines is fun",
+    "likes": 1044
+  },
+  {
+    "id": 910,
+    "username": "sports_daily",
+    "platform": "Facebook",
+    "text": "Played a new multiplayer game today",
+    "likes": 124
+  },
+  {
+    "id": 911,
+    "username": "politics_watch",
+    "platform": "Twitter",
+    "text": "Played a new multiplayer game today",
+    "likes": 1574
+  },
+  {
+    "id": 912,
+    "username": "crypto_trader",
+    "platform": "YouTube",
+    "text": "The latest superhero film broke box office records",
+    "likes": 1120
+  },
+  {
+    "id": 913,
+    "username": "fitness_daily",
+    "platform": "Reddit",
+    "text": "Protecting wildlife is important",
+    "likes": 1988
+  },
+  {
+    "id": 914,
+    "username": "crypto_trader",
+    "platform": "Facebook",
+    "text": "Protecting wildlife is important",
+    "likes": 1189
+  },
+  {
+    "id": 915,
+    "username": "tech_world",
+    "platform": "Facebook",
+    "text": "Eating healthy food helps prevent diseases",
+    "likes": 254
+  },
+  {
+    "id": 916,
+    "username": "sports_fan",
+    "platform": "LinkedIn",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 1211
+  },
+  {
+    "id": 917,
+    "username": "sports_fan",
+    "platform": "YouTube",
+    "text": "Strategy games improve decision making",
+    "likes": 760
+  },
+  {
+    "id": 918,
+    "username": "gamer_zone",
+    "platform": "Instagram",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 1470
+  },
+  {
+    "id": 919,
+    "username": "student_life",
+    "platform": "LinkedIn",
+    "text": "Voting is important in a democracy",
+    "likes": 121
+  },
+  {
+    "id": 920,
+    "username": "science_today",
+    "platform": "YouTube",
+    "text": "Trying to stay positive during tough times",
+    "likes": 354
+  },
+  {
+    "id": 921,
+    "username": "crypto_trader",
+    "platform": "Facebook",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 1499
+  },
+  {
+    "id": 922,
+    "username": "science_today",
+    "platform": "Twitter",
+    "text": "Gaming graphics are becoming very realistic",
+    "likes": 284
+  },
+  {
+    "id": 923,
+    "username": "tech_world",
+    "platform": "Twitter",
+    "text": "Regular health checkups are important",
+    "likes": 85
+  },
+  {
+    "id": 924,
+    "username": "politics_watch",
+    "platform": "Twitter",
+    "text": "Healthy eating habits improve lifestyle",
+    "likes": 1193
+  },
+  {
+    "id": 925,
+    "username": "movie_buff",
+    "platform": "LinkedIn",
+    "text": "The storyline of that drama movie was powerful",
+    "likes": 1942
+  },
+  {
+    "id": 926,
+    "username": "coding_student",
+    "platform": "YouTube",
+    "text": "Transformers are powerful NLP models",
+    "likes": 1040
+  },
+  {
+    "id": 927,
+    "username": "tech_world",
+    "platform": "YouTube",
+    "text": "Protecting wildlife is important",
+    "likes": 1445
+  },
+  {
+    "id": 928,
+    "username": "life_quotes",
+    "platform": "Twitter",
+    "text": "Planning a road trip across the country",
+    "likes": 877
+  },
+  {
+    "id": 929,
+    "username": "student_help",
+    "platform": "Facebook",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 1880
+  },
+  {
+    "id": 930,
+    "username": "daily_thoughts",
+    "platform": "Twitter",
+    "text": "Solo travel can be life changing",
+    "likes": 251
+  },
+  {
+    "id": 931,
+    "username": "science_today",
+    "platform": "Instagram",
+    "text": "Marketing plays a huge role in success",
+    "likes": 1286
+  },
+  {
+    "id": 932,
+    "username": "food_blog",
+    "platform": "Instagram",
+    "text": "Public policies shape society",
+    "likes": 1583
+  },
+  {
+    "id": 933,
+    "username": "student_help",
+    "platform": "YouTube",
+    "text": "Reading daily helps personal growth",
+    "likes": 554
+  },
+  {
+    "id": 934,
+    "username": "career_path",
+    "platform": "LinkedIn",
+    "text": "Book recommendations are always welcome",
+    "likes": 1199
+  },
+  {
+    "id": 935,
+    "username": "tech_world",
+    "platform": "Twitter",
+    "text": "Building a company requires persistence",
+    "likes": 1244
+  },
+  {
+    "id": 936,
+    "username": "student_help",
+    "platform": "Facebook",
+    "text": "Morning running improves stamina",
+    "likes": 1349
+  },
+  {
+    "id": 937,
+    "username": "nature_lover",
+    "platform": "Facebook",
+    "text": "Talking to friends improves mental wellbeing",
+    "likes": 1633
+  },
+  {
+    "id": 938,
+    "username": "student_life",
+    "platform": "Instagram",
+    "text": "Climate change research is important",
+    "likes": 556
+  },
+  {
+    "id": 939,
+    "username": "science_today",
+    "platform": "Facebook",
+    "text": "Building a company requires persistence",
+    "likes": 1168
+  },
+  {
+    "id": 940,
+    "username": "daily_thoughts",
+    "platform": "Reddit",
+    "text": "Beach vacations are relaxing",
+    "likes": 776
+  },
+  {
+    "id": 941,
+    "username": "sports_fan",
+    "platform": "Instagram",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 152
+  },
+  {
+    "id": 942,
+    "username": "book_reader",
+    "platform": "Facebook",
+    "text": "Stock market trends are unpredictable",
+    "likes": 130
+  },
+  {
+    "id": 943,
+    "username": "politics_watch",
+    "platform": "Reddit",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 1169
+  },
+  {
+    "id": 944,
+    "username": "coding_student",
+    "platform": "YouTube",
+    "text": "Gaming graphics are becoming very realistic",
+    "likes": 1697
+  },
+  {
+    "id": 945,
+    "username": "finance_tips",
+    "platform": "Reddit",
+    "text": "Recycling reduces environmental waste",
+    "likes": 669
+  },
+  {
+    "id": 946,
+    "username": "startup_founder",
+    "platform": "LinkedIn",
+    "text": "Beach vacations are relaxing",
+    "likes": 800
+  },
+  {
+    "id": 947,
+    "username": "career_path",
+    "platform": "YouTube",
+    "text": "Cricket world cup games are always exciting",
+    "likes": 1108
+  },
+  {
+    "id": 948,
+    "username": "tech_updates",
+    "platform": "Twitter",
+    "text": "Mental health awareness is very important",
+    "likes": 1094
+  },
+  {
+    "id": 949,
+    "username": "tech_updates",
+    "platform": "YouTube",
+    "text": "Climate change research is important",
+    "likes": 1747
+  },
+  {
+    "id": 950,
+    "username": "crypto_trader",
+    "platform": "YouTube",
+    "text": "Physics explains many natural phenomena",
+    "likes": 829
+  },
+  {
+    "id": 951,
+    "username": "coding_student",
+    "platform": "Reddit",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 1919
+  },
+  {
+    "id": 952,
+    "username": "movie_buff",
+    "platform": "Reddit",
+    "text": "Cloud computing is the future of software",
+    "likes": 1788
+  },
+  {
+    "id": 953,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 1067
+  },
+  {
+    "id": 954,
+    "username": "nature_lover",
+    "platform": "Facebook",
+    "text": "Learning new programming concepts today",
+    "likes": 1953
+  },
+  {
+    "id": 955,
+    "username": "politics_watch",
+    "platform": "YouTube",
+    "text": "Literature opens new perspectives",
+    "likes": 1302
+  },
+  {
+    "id": 956,
+    "username": "movie_buff",
+    "platform": "YouTube",
+    "text": "Physics explains many natural phenomena",
+    "likes": 1948
+  },
+  {
+    "id": 957,
+    "username": "movie_buff",
+    "platform": "Twitter",
+    "text": "Space exploration is advancing rapidly",
+    "likes": 846
+  },
+  {
+    "id": 958,
+    "username": "movie_buff",
+    "platform": "LinkedIn",
+    "text": "Finished a great mystery novel",
+    "likes": 50
+  },
+  {
+    "id": 959,
+    "username": "student_life",
+    "platform": "Reddit",
+    "text": "The election debate was intense",
+    "likes": 1525
+  },
+  {
+    "id": 960,
+    "username": "mental_support",
+    "platform": "Reddit",
+    "text": "Assignments and deadlines are stressful",
+    "likes": 1832
+  },
+  {
+    "id": 961,
+    "username": "fitness_motivation",
+    "platform": "YouTube",
+    "text": "Beach vacations are relaxing",
+    "likes": 1485
+  },
+  {
+    "id": 962,
+    "username": "fitness_daily",
+    "platform": "Twitter",
+    "text": "Competitive esports tournaments are exciting",
+    "likes": 390
+  },
+  {
+    "id": 963,
+    "username": "finance_tips",
+    "platform": "Instagram",
+    "text": "Morning running improves stamina",
+    "likes": 743
+  },
+  {
+    "id": 964,
+    "username": "mental_support",
+    "platform": "Instagram",
+    "text": "Cooking pasta at home today",
+    "likes": 1483
+  },
+  {
+    "id": 965,
+    "username": "fitness_daily",
+    "platform": "Facebook",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 577
+  },
+  {
+    "id": 966,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Climate change awareness is increasing",
+    "likes": 943
+  },
+  {
+    "id": 967,
+    "username": "career_path",
+    "platform": "Facebook",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 1152
+  },
+  {
+    "id": 968,
+    "username": "student_help",
+    "platform": "LinkedIn",
+    "text": "Investing in stocks requires patience",
+    "likes": 47
+  },
+  {
+    "id": 969,
+    "username": "ai_learner",
+    "platform": "Facebook",
+    "text": "Watching classic films on the weekend",
+    "likes": 1646
+  },
+  {
+    "id": 970,
+    "username": "tech_updates",
+    "platform": "Facebook",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 1439
+  },
+  {
+    "id": 971,
+    "username": "student_help",
+    "platform": "Facebook",
+    "text": "Trying to stay positive during tough times",
+    "likes": 1077
+  },
+  {
+    "id": 972,
+    "username": "career_path",
+    "platform": "Reddit",
+    "text": "Movie soundtracks can make scenes unforgettable",
+    "likes": 1662
+  },
+  {
+    "id": 973,
+    "username": "science_today",
+    "platform": "Twitter",
+    "text": "Beach vacations are relaxing",
+    "likes": 1684
+  },
+  {
+    "id": 974,
+    "username": "startup_founder",
+    "platform": "LinkedIn",
+    "text": "Cloud computing is the future of software",
+    "likes": 281
+  },
+  {
+    "id": 975,
+    "username": "mind_care",
+    "platform": "Facebook",
+    "text": "Cryptocurrency markets are very volatile",
+    "likes": 1490
+  },
+  {
+    "id": 976,
+    "username": "fitness_motivation",
+    "platform": "LinkedIn",
+    "text": "Yoga improves both mental and physical health",
+    "likes": 1370
+  },
+  {
+    "id": 977,
+    "username": "crypto_trader",
+    "platform": "Instagram",
+    "text": "Building a company requires persistence",
+    "likes": 764
+  },
+  {
+    "id": 978,
+    "username": "college_diaries",
+    "platform": "YouTube",
+    "text": "Reading daily helps personal growth",
+    "likes": 206
+  },
+  {
+    "id": 979,
+    "username": "crypto_trader",
+    "platform": "Facebook",
+    "text": "Cricket world cup games are always exciting",
+    "likes": 429
+  },
+  {
+    "id": 980,
+    "username": "politics_watch",
+    "platform": "Instagram",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 1132
+  },
+  {
+    "id": 981,
+    "username": "crypto_trader",
+    "platform": "Facebook",
+    "text": "Morning running improves stamina",
+    "likes": 1510
+  },
+  {
+    "id": 982,
+    "username": "health_awareness",
+    "platform": "Twitter",
+    "text": "Cooking pasta at home today",
+    "likes": 1947
+  },
+  {
+    "id": 983,
+    "username": "science_today",
+    "platform": "LinkedIn",
+    "text": "Morning routines boost productivity",
+    "likes": 593
+  },
+  {
+    "id": 984,
+    "username": "fitness_daily",
+    "platform": "Twitter",
+    "text": "Final year project development in progress",
+    "likes": 1895
+  },
+  {
+    "id": 985,
+    "username": "mind_care",
+    "platform": "YouTube",
+    "text": "Entrepreneurs need strong leadership skills",
+    "likes": 68
+  },
+  {
+    "id": 986,
+    "username": "health_guru",
+    "platform": "LinkedIn",
+    "text": "Transformers are powerful NLP models",
+    "likes": 1982
+  },
+  {
+    "id": 987,
+    "username": "fitness_daily",
+    "platform": "LinkedIn",
+    "text": "Cardiologist says daily walking improves heart condition",
+    "likes": 270
+  },
+  {
+    "id": 988,
+    "username": "college_diaries",
+    "platform": "LinkedIn",
+    "text": "Doctor recommended regular exercise for heart health",
+    "likes": 507
+  },
+  {
+    "id": 989,
+    "username": "book_reader",
+    "platform": "LinkedIn",
+    "text": "Basketball finals were thrilling to watch",
+    "likes": 725
+  },
+  {
+    "id": 990,
+    "username": "career_path",
+    "platform": "YouTube",
+    "text": "Traveling to the mountains this weekend",
+    "likes": 57
+  },
+  {
+    "id": 991,
+    "username": "science_today",
+    "platform": "Instagram",
+    "text": "Strategy games improve decision making",
+    "likes": 1987
+  },
+  {
+    "id": 992,
+    "username": "travel_diaries",
+    "platform": "Reddit",
+    "text": "Learning machine learning and deep learning",
+    "likes": 874
+  },
+  {
+    "id": 993,
+    "username": "mental_support",
+    "platform": "YouTube",
+    "text": "Time management is important for students",
+    "likes": 351
+  },
+  {
+    "id": 994,
+    "username": "sports_daily",
+    "platform": "YouTube",
+    "text": "Political discussions are trending online",
+    "likes": 99
+  },
+  {
+    "id": 995,
+    "username": "travel_diaries",
+    "platform": "Reddit",
+    "text": "Solo travel can be life changing",
+    "likes": 800
+  },
+  {
+    "id": 996,
+    "username": "science_today",
+    "platform": "YouTube",
+    "text": "Artificial intelligence is changing the world",
+    "likes": 570
+  },
+  {
+    "id": 997,
+    "username": "sports_zone",
+    "platform": "YouTube",
+    "text": "Movie soundtracks can make scenes unforgettable",
+    "likes": 1966
+  },
+  {
+    "id": 998,
+    "username": "coding_student",
+    "platform": "YouTube",
+    "text": "Watching classic films on the weekend",
+    "likes": 307
+  },
+  {
+    "id": 999,
+    "username": "career_path",
+    "platform": "YouTube",
+    "text": "Feeling anxious and stressed lately",
+    "likes": 1843
+  },
+  {
+    "id": 1000,
+    "username": "food_blog",
+    "platform": "Reddit",
+    "text": "Scientists discovered a new exoplanet",
+    "likes": 883
+  }
+]

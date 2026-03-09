@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dataset</title>
+
+<style>
+
+/* GLOBAL PAGE STYLE */
+
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:linear-gradient(120deg,#667eea,#764ba2);
+    padding-top:70px;
+}
+
+/* NAVBAR */
+
+nav{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    background:#222;
+    z-index:1000;
+}
+
+.nav-container{
+    max-width:1200px;
+    margin:auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 20px;
+}
+
+.logo{
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.nav-links a{
+    color:white;
+    margin-left:25px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.nav-links a:hover{
+    color:#667eea;
+}
+
+/* PAGE CONTAINER */
+
+.container{
+    max-width:1000px;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.15);
+}
+
+/* TABLE STYLE */
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th, td{
+    padding:10px;
+    border:1px solid #ddd;
+    text-align:left;
+}
+
+th{
+    background:#f4f6fb;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+
+<nav>
+<div class="nav-container">
+
+<div class="logo">
+Semantic Search AI
+</div>
+
+<div class="nav-links">
+<a href="/">Home</a>
+<a href="/searchpage">Search</a>
+<a href="/dataset">Dataset</a>
+</div>
+
+</div>
+</nav>
+
+
+<!-- PAGE CONTENT -->
+
+<div class="container">
+
+<h1 style="text-align:center;">Dataset Information</h1>
+
+<p>
+This project uses a dataset of approximately <b>1000 simulated social media posts</b>.
+Below is a preview of posts used for training and testing the semantic search engine.
+</p>
+
+<h2>Sample Posts from Dataset</h2>
+
+<table>
+
+<tr>
+<th>Username</th>
+<th>Platform</th>
+<th>Post</th>
+<th>Likes</th>
+</tr>
+
+{% for post in posts %}
+
+<tr>
+<td>{{ post.username }}</td>
+<td>{{ post.platform }}</td>
+<td>{{ post.text }}</td>
+<td>{{ post.likes }}</td>
+</tr>
+
+{% endfor %}
+
+</table>
+
+<p style="margin-top:20px;">
+The dataset is used to evaluate semantic search by converting posts into embeddings
+and computing cosine similarity with the user query.
+</p>
+
+</div>
+
+</body>
+</html>
